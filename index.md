@@ -5,9 +5,9 @@ layout: default
 The _collaborative-robotics_ organization was created to develop a Common API for research in
 teleoperated and collaborative robotics. We are developing an abstract definition of this API,
 with concrete implementations in the _Collaborative Robotics Toolkit (CRTK)_.
-The implementations are for specific robots, such as the da Vinci Research Kit (dVRK),
-Raven II, and other robots, and for popular robotics middleware, specifically
-[Robot Operating System (ROS)](www.ros.org).
+The implementations focus on common shared research platforms, such as the da Vinci Research Kit (dVRK)
+and Raven II, and other devices commonly used by researchers. The provided implementation uses
+[Robot Operating System (ROS)](www.ros.org), but could be extended to other middleware.
 
 # Events
 
