@@ -2,6 +2,22 @@
 layout: default
 ---
 
+The _collaborative-robotics_ organization was created to develop a Common API for research in
+teleoperated and collaborative robotics. We are developing an abstract definition of this API,
+with concrete implementations in the _Collaborative Robotics Toolkit (CRTK)_.
+The implementations are for specific robots, such as the da Vinci Research Kit (dVRK),
+Raven II, and other robots, and for popular robotics middleware, specifically
+[Robot Operating System (ROS)](www.ros.org).
+
 # Events
 
 * [IROS 2018 Tutorial](./iros-2018-tutorial.md)
+
+# Links
+
+* [CRTK Documentation](https://github.com/collaborative-robotics/documentation/wiki)
+
+# Support
+
+This effort is supported by the US National Science Foundation (NSF), via NRI 1637789 (JHU), 1637444 (UW)
+and 1637759 (WPI).
