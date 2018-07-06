@@ -1,10 +1,7 @@
 ---
 layout: default
-title: IROS Tutorial
 ---
 
-# Collaborative Robotics Toolkit (CRTK) and Open Platforms for Medical Robotics Research
+# Events
 
-<!-- pic here -->
-<img src="./images/IROS-Banner.pgn" alt="IROS Banner" style="width: 500px;"/>
-
+  * [IROS 2018 Tutorial](iros-2018-tutorial)
