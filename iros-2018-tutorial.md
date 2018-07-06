@@ -1,13 +1,11 @@
 ---
 layout: default
-title: IROS 2018 Tutorial
-description: Collaborative Robotics Toolkit (CRTK) and Open Platforms for Medical Robotics Research
 ---
-
-# Collaborative Robotics Toolkit (CRTK) and Open Platforms for Medical Robotics Research
 
 <!-- pic here -->
 <img src="./images/IROS-Banner.png" alt="IROS Banner" />
+
+# IROS 2018 Tutorial on Collaborative Robotics Toolkit (CRTK) and Open Platforms for Medical Robotics Research
 
 ## Objectives
 The objectives are to provide an in-depth tutorial on recent advances in open platforms for medical robotics research. This originated with two widely used open platforms, the Raven II robot and da Vinci Research Kit (dVRK), which are installed at more than 40 institutions worldwide, but has broadened to include other robots and devices, including simulated robots. The tutorial will first present the Collaborative Robotics Toolkit (CRTK), which defines a common API to the Raven, dVRK and other systems (https://github.com/collaborative-robotics).  It will cover the concepts and design of CRTK, followed by its ROS implementation.  The integration of CRTK with popular simulation/visualization platforms, including rviz, Gazebo, and Matlab, will be covered in depth and attendees will have an opportunity for hands on experimentation, using haptic input devices to teleoperate simulated robots and remote Raven II and dVRK robots.
