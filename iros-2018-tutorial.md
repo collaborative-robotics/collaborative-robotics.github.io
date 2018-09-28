@@ -27,21 +27,21 @@ The tutorial will also include a _Contribution Guide_ session, which will explai
 
 ## Preliminary Program
 
-| Time  | Topic        | Details |
-|:------|:-------------|:--------|
-| 09:00 | Introduction | Welcome and schedule for the tutorial |
-| 09:10 | Historical context | Overview of Raven II and dVRK |
-| 09:40 | Use Cases    | Use cases to be addressed |
-| 10:00 | Discussion   | Brief discussion and Q&A |
-| 10:15 | CRTK         | Collaborative Robotics Toolkit (Common API), design and overview |
-| 11:00 | Coffee Break | |
-| 11:30 | ROS          | ROS implementation of CRTK, including Python client |
-| 12:15 | Simulators   | Input devices and simulated robots |
-| 13:00 | Community Contributions | Solicited presentations from the community |
-| 13:30 | Lunch | |
-| 14:30 | Contribution Guide | Git workflow, mechanisms for contributions |
-| 15:00 | Hands On | Hands on sessions with input devices and simulated/remote robots; open discussion |
-| 16:30 | Coffee Break | |
-| 17:00 | dVRK/Raven II | dVRK and Raven II internals |
-| 18:30 | Wrapup | Final questions, feedback on content and format, plans for future |
-| 19:00 | Adjourn | |
+| Time  | Topic        | Speakers | Details |
+|:------|:-------------|:---------|:--------|
+| 09:00 | Introduction | Peter Kazanzides | Welcome and schedule for the tutorial |
+| 09:10 | Historical Context | Jie Ying Wu, Melody Su | Overview of Raven II and dVRK |
+| 09:40 | Use Cases    | Peter Kazanzides | Use cases to be addressed |
+| 10:00 | Discussion   | | Brief discussion and Q&A |
+| 10:15 | CRTK         | Anton Deguet | Collaborative Robotics Toolkit (Common API), design and overview |
+| 11:00 | Coffee Break | | |
+| 11:30 | ROS          | Anton Deguet | ROS implementation of CRTK, including Python client |
+| 12:15 | Simulators   | Adnan Munawar | Input devices and simulated robots |
+| 13:00 | Community Contributions | Samuel Au | Solicited presentations from the community |
+| 13:30 | Lunch | | |
+| 14:30 | Contribution Guide | Anton Deguet | Git workflow, mechanisms for contributions |
+| 15:00 | Hands On | | Hands on sessions with input devices and simulated/remote robots; open discussion |
+| 16:30 | Coffee Break | | |
+| 17:00 | dVRK/Raven II | Peter Kazanzides, Melody Su | dVRK and Raven II internals |
+| 18:30 | Wrapup | Peter Kazanzides | Final questions, feedback on content and format, plans for future |
+| 19:00 | Adjourn | | |
