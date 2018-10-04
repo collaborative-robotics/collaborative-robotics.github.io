@@ -31,9 +31,9 @@ In addition, the tutorial will cover the architecture and low-level programming 
 |:------|:-------------|:---------|:--------|
 | 09:00 | Introduction | Peter Kazanzides (JHU) | Welcome and schedule for the tutorial |
 | 09:10 | Historical Context | Jie Ying Wu (JHU), Melody Su (UW) | Overview of Raven II and dVRK |
-| 09:40 | Use Cases    | Peter Kazanzides (JHU) | Use cases to be addressed |
-| 10:00 | Discussion   | | Brief discussion and Q&A |
-| 10:15 | CRTK         | Anton Deguet (JHU) | Collaborative Robotics Toolkit (Common API), design and overview |
+| 09:50 | Use Cases    | Peter Kazanzides (JHU) | Use cases to be addressed |
+| 10:10 | Discussion   | | Brief discussion and Q&A |
+| 10:25 | CRTK         | Anton Deguet (JHU) | Collaborative Robotics Toolkit (Common API), design and overview |
 | 11:00 | Coffee Break | | |
 | 11:30 | ROS          | Anton Deguet (JHU) | ROS implementation of CRTK, including Python client |
 | 12:15 | Simulators   | Adnan Munawar (WPI) | Input devices and simulated robots |
