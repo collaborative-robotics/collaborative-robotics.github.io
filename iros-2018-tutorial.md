@@ -25,7 +25,7 @@ In addition, the tutorial will cover the architecture and low-level programming 
 |Peter Kazanzides          | Blake Hannaford           | Gregory S. Fischer              |
 |Johns Hopkins University  | University of Washington  | Worcester Polytechnic Institute |
 
-## Preliminary Program
+## Final Program
 
 | Time  | Topic        | Speakers | Details |
 |:------|:-------------|:---------|:--------|
