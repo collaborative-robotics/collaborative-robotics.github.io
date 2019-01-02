@@ -18,7 +18,9 @@ The objectives of the afternoon session are to provide an opportunity for member
 
 ## Call for Abstracts
 
-We are soliciting extended abstracts, 1-2 pages in length, for possible presentation during the afternoon session.  Accepted abstracts will be posted on the workshop website.  Abstracts should fit the theme of the workshop and focus on shared platforms and software or on research enabled by shared platforms and software. Instructions for submitting abstracts will be posted in early January 2019.
+We are soliciting extended abstracts, 1-2 pages in length, for possible presentation during the afternoon session. Abstracts should fit the theme of the workshop and focus on shared platforms and software or on research enabled by shared platforms and software. Please submit your abstract (PDF only) by email to [open-platforms-ismr-2019@googlegroups.com](open-platforms-ismr-2019@googlegroups.com).
+**The deadline for abstract submission is TBD.**
+Accepted abstracts will be posted on the workshop website, subject to author agreement.
 
 ## Organizers
 
