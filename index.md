@@ -12,6 +12,7 @@ and Raven II, and other devices commonly used by researchers. The provided imple
 # Events
 
 * [IROS 2018 Tutorial](./iros-2018-tutorial.md)
+* [ISMR 2019 Workshop](./ismr-2019-workshop.md)
 
 # Links
 
