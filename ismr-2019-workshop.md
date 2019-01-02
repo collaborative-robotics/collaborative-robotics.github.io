@@ -6,7 +6,7 @@ layout: default
 
 **Workshop Date:**  April 3, 2019
 
-**Venue:** Atlanta, GA USA
+**Venue:** [Historic Academy of Medicine](https://academy.gatech.edu/), Atlanta, GA USA
 
 **Room:** TBD
 
