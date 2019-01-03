@@ -4,7 +4,7 @@ layout: default
 
 # [ISMR 2019](http://www.ismr.gatech.edu/) Workshop on Open Platforms for Medical Robotics Research
 
-**Workshop Date:**  April 3, 2019
+**Workshop Date:**  April 3, 2019 (full day)
 
 **Venue:** Georgia Institute of Technology, Atlanta, GA USA
 
