@@ -39,5 +39,10 @@ Accepted abstracts will be posted on the workshop website, subject to author agr
 |       | Hands On | | Hands on sessions with input devices and simulated/remote robots |
 |       | Lunch | | |
 |       | Community Presentations |  | Solicited presentations from the community |
+|       |                         | Paolo Fiorini (Univ. of Verona) | |
+|       |                         | Arianna Menciassi (Scuola Superiore Sant'Anna) | |
+|       |                         | Rajni Patel (Western University) | |
+|       |                         | Mahdi Tavakoli (Univ. of Alberta) | |
+|       |                         | Russell Taylor (JHU) | |
 |       | Panel Discussion |  | Discussion of community needs |
 |       | Adjourn | | |
