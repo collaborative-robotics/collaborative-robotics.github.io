@@ -33,7 +33,7 @@ Accepted abstracts will be posted on the workshop website, subject to author agr
 |:------|:-------------|:---------|:--------|
 |       | Introduction | Peter Kazanzides (JHU) | Welcome and schedule for the workshop |
 |       | da Vinci Research Kit (dVRK) | Peter Kazanzides (JHU) | Overview of dVRK |
-|       | Raven II    |       | Overview of Raven II |
+|       | Raven II    | Melody Su (UW) | Overview of Raven II |
 |       | CRTK and ROS | Anton Deguet (JHU) | Collaborative Robotics Toolkit (CRTK), including ROS implementation |
 |       | Simulators   |  | Simulation environments |
 |       | Hands On | | Hands on sessions with input devices and simulated/remote robots |
@@ -44,5 +44,6 @@ Accepted abstracts will be posted on the workshop website, subject to author agr
 |       |                         | Rajni Patel (Western University) | |
 |       |                         | Mahdi Tavakoli (Univ. of Alberta) | |
 |       |                         | Russell Taylor (JHU) | |
+|       |                         | Simon DiMaio (Intuitive Surgical | |
 |       | Panel Discussion |  | Discussion of community needs |
 |       | Adjourn | | |
