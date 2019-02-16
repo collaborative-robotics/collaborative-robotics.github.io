@@ -35,7 +35,7 @@ Accepted abstracts will be posted on the workshop website, subject to author agr
 |       | da Vinci Research Kit (dVRK) | Peter Kazanzides (JHU) | Overview of dVRK |
 |       | Raven II    | Melody Su (UW) | Overview of Raven II |
 |       | CRTK and ROS | Anton Deguet (JHU) | Collaborative Robotics Toolkit (CRTK), including ROS implementation |
-|       | Simulators   |  | Simulation environments |
+|       | Simulators   | Greg Fischer, Adnan Munawar (WPI) | Simulation environments |
 |       | Hands On | | Hands on sessions with input devices and simulated/remote robots |
 |       | Lunch | | |
 |       | Community Presentations |  | Solicited presentations from the community |
