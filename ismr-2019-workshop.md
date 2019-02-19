@@ -45,5 +45,6 @@ Accepted abstracts will be posted on the workshop website, subject to author agr
 |       |                         | Mahdi Tavakoli (Univ. of Alberta) | |
 |       |                         | Russell Taylor (JHU) | |
 |       |                         | Simon DiMaio (Intuitive Surgical | |
+|       |                         | Homa Alemzadeh (Univ. of Virginia) | |
 |       | Panel Discussion |  | Discussion of community needs |
 |       | Adjourn | | |
