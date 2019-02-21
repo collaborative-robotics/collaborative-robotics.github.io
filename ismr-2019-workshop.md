@@ -8,7 +8,7 @@ layout: default
 
 **Venue:** Georgia Institute of Technology, Atlanta, GA USA
 
-**Room:** TBD
+**Location:** 1128 Suddath Room, Institute for Bioengineering and Bioscience (IBB)
 
 ## Objectives
 
@@ -31,14 +31,14 @@ Accepted abstracts will be posted on the workshop website, subject to author agr
 
 | Time  | Topic        | Speakers | Details |
 |:------|:-------------|:---------|:--------|
-|       | Introduction | Peter Kazanzides (JHU) | Welcome and schedule for the workshop |
+| 08:30 | Introduction | Peter Kazanzides (JHU) | Welcome and schedule for the workshop |
 |       | da Vinci Research Kit (dVRK) | Peter Kazanzides (JHU) | Overview of dVRK |
 |       | Raven II    | Melody Su (UW) | Overview of Raven II |
 |       | CRTK and ROS | Anton Deguet (JHU) | Collaborative Robotics Toolkit (CRTK), including ROS implementation |
 |       | Simulators   | Greg Fischer, Adnan Munawar (WPI) | Simulation environments |
 |       | Hands On | | Hands on sessions with input devices and simulated/remote robots |
-|       | Lunch | | |
-|       | Community Presentations |  | Solicited presentations from the community |
+| 12:00 | Lunch | | |
+| 13:30 | Community Presentations |  | Solicited presentations from the community |
 |       |                         | Paolo Fiorini (Univ. of Verona) | |
 |       |                         | Arianna Menciassi (Scuola Superiore Sant'Anna) | |
 |       |                         | Rajni Patel (Western University) | |
@@ -47,4 +47,4 @@ Accepted abstracts will be posted on the workshop website, subject to author agr
 |       |                         | Simon DiMaio (Intuitive Surgical | |
 |       |                         | Homa Alemzadeh (Univ. of Virginia) | |
 |       | Panel Discussion |  | Discussion of community needs |
-|       | Adjourn | | |
+| 17:00 | Adjourn | | |
