@@ -34,13 +34,20 @@ The objectives of the second half of the workshop are to provide an opportunity 
 | 11:15 | Hands On I | | Hands on sessions with input devices and simulated/remote robots |
 | 12:00 | Lunch | | |
 | 13:30 | Hands On II | | Hands on sessions with input devices and simulated/remote robots |
-| 14:15 | Technologies for Autonomous Robotic Surgery | Paolo Fiorini (Univ. of Verona) | |
-| 14:30 |                         | Arianna Menciassi (Scuola Superiore Sant'Anna) | |
-| 14:45 |                         | Rajni Patel (Western University) | |
-| 15:00 | Coffee Break | | |
-| 15:30 |                         | Mahdi Tavakoli (Univ. of Alberta) | |
-| 15:45 | Simulation Environment for RAVEN II Surgical Robot | Homa Alemzadeh (Univ. of Virginia) | |
-| 16:00 |                         | Russell Taylor (JHU) | |
-| 16:15 |                         | Simon DiMaio (Intuitive Surgical) | |
+| 14:15 | Community Presentations I | See below | Solicited presentations from the community |
+| 15:00 | Coffee Break | |
+| 15:30 | Community Presentations II | See below | Solicited presentations from the community |
 | 16:30 | Panel Discussion |  | Discussion of community needs |
 | 17:00 | Adjourn | | |
+
+### Community Presentations I and II
+
+| Time  | Title       | Speaker  | Affiliation |
+|:------|:------------|:---------|:------------|
+| 14:15 | Technologies for Autonomous Robotic Surgery | Paolo Fiorini | Univ. of Verona |
+| 14:30 |                         | Arianna Menciassi | Scuola Superiore Sant'Anna |
+| 14:45 |                         | Rajni Patel | Western University |
+| 15:30 |                         | Mahdi Tavakoli | Univ. of Alberta |
+| 15:45 | Simulation Environment for RAVEN II Surgical Robot | Homa Alemzadeh | Univ. of Virginia |
+| 16:00 | A Framework for Complementary Situation Awareness (CSA) | Russell Taylor | Johns Hopkins Univ. |
+| 16:15 |                         | Simon DiMaio | Intuitive Surgical |
