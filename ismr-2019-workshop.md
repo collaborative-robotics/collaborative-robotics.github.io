@@ -50,4 +50,4 @@ The objectives of the second half of the workshop are to provide an opportunity 
 | 15:30 |                         | Mahdi Tavakoli | Univ. of Alberta |
 | 15:45 | Simulation Environment for RAVEN II Surgical Robot | Homa Alemzadeh | Univ. of Virginia |
 | 16:00 | A Framework for Complementary Situation Awareness (CSA) | Russell Taylor | Johns Hopkins Univ. |
-| 16:15 |                         | Simon DiMaio | Intuitive Surgical |
+| 16:15 | dVRK Community Research Highlights                      | Simon DiMaio | Intuitive Surgical |
