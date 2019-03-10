@@ -45,7 +45,7 @@ The objectives of the second half of the workshop are to provide an opportunity 
 | Time  | Title       | Speaker  | Affiliation |
 |:------|:------------|:---------|:------------|
 | 14:15 | Technologies for Autonomous Robotic Surgery | Paolo Fiorini | Univ. of Verona |
-| 14:30 |                         | Arianna Menciassi | Scuola Superiore Sant'Anna |
+| 14:30 | Integration of Devices with the dVRK Platform | Arianna Menciassi | Scuola Superiore Sant'Anna |
 | 14:45 |                         | Rajni Patel | Western University |
 | 15:30 |                         | Mahdi Tavakoli | Univ. of Alberta |
 | 15:45 | Simulation Environment for RAVEN II Surgical Robot | Homa Alemzadeh | Univ. of Virginia |
