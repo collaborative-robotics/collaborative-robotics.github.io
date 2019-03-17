@@ -19,6 +19,7 @@ The objectives of the second half of the workshop are to provide an opportunity 
 ## Organizers
 
 |Peter Kazanzides          | Blake Hannaford           | Gregory S. Fischer              |
+|--------------------------|---------------------------|---------------------------------|
 |Johns Hopkins University  | University of Washington  | Worcester Polytechnic Institute |
 
 ## Program
