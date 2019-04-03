@@ -38,7 +38,7 @@ The objectives of the second half of the workshop are to provide an opportunity 
 | 14:15 | Community Presentations I | See below | Solicited presentations from the community |
 | 15:00 | Coffee Break | |
 | 15:30 | Community Presentations II | See below | Solicited presentations from the community |
-| 16:30 | Community Discussion |  | Discussion of community needs (see link below) |
+| 16:30 | Community Discussion |  | Discussion of community needs [(shared slides)](https://docs.google.com/presentation/d/15ZQGmp2tgjZrTkUSi4uUhL3AOc_oNcPTJwv5OyD7xZs/edit?usp=sharing) |
 | 17:00 | Adjourn | | |
 
 ### Community Presentations I and II
@@ -52,5 +52,3 @@ The objectives of the second half of the workshop are to provide an opportunity 
 | 15:45 | Simulation Environment for RAVEN II Surgical Robot | Homa Alemzadeh | Univ. of Virginia |
 | 16:00 | A Framework for Complementary Situation Awareness (CSA) | Russell Taylor | Johns Hopkins Univ. |
 | 16:15 | dVRK Community Research Highlights                      | Simon DiMaio | Intuitive Surgical |
-
-### [Shared slides for Community Discussion](https://docs.google.com/presentation/d/15ZQGmp2tgjZrTkUSi4uUhL3AOc_oNcPTJwv5OyD7xZs/edit?usp=sharing)
