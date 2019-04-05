@@ -29,7 +29,7 @@ The objectives of the second half of the workshop are to provide an opportunity 
 | 08:30 | Introduction | Peter Kazanzides (JHU) | Welcome and schedule for the workshop |
 | 08:45 | da Vinci Research Kit (dVRK) | Peter Kazanzides (JHU) | Overview of dVRK |
 | 09:00 | Raven II     | Melody Su (UW) | Overview of Raven II |
-| 09:15 | CRTK and ROS | Anton Deguet (JHU) | Collaborative Robotics Toolkit (CRTK), including ROS implementation |
+| 09:15 | [CRTK and ROS](https://github.com/collaborative-robotics/collaborative-robotics.github.io/blob/master/ismr-2019/ismr-19-crtk.pdf) | Anton Deguet (JHU) | Collaborative Robotics Toolkit (CRTK), including ROS implementation |
 | 10:00 | Coffee Break | | |
 | 10:30 | Simulators   | Greg Fischer, Adnan Munawar (WPI) | Simulation environments |
 | 11:15 | Hands On I | | Hands on sessions with input devices and simulated/remote robots |
