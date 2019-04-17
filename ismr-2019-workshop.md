@@ -31,7 +31,7 @@ The objectives of the second half of the workshop are to provide an opportunity 
 | 09:00 | [Raven II](https://github.com/collaborative-robotics/collaborative-robotics.github.io/blob/master/ismr-2019/ismr-19-Raven.pdf)  | Melody Su (UW) | Overview of Raven II |
 | 09:15 | [CRTK and ROS](https://github.com/collaborative-robotics/collaborative-robotics.github.io/blob/master/ismr-2019/ismr-19-crtk.pdf) | Anton Deguet (JHU) | Collaborative Robotics Toolkit (CRTK), including ROS implementation |
 | 10:00 | Coffee Break | | |
-| 10:30 | Simulators   | Greg Fischer, Adnan Munawar (WPI) | Simulation environments |
+| 10:30 | [Simulators](https://github.com/collaborative-robotics/collaborative-robotics.github.io/blob/master/ismr-2019/ismr-19-simulators.pdf) | Greg Fischer, Adnan Munawar (WPI) | Simulation environments |
 | 11:15 | Hands On I | | Hands on sessions with input devices and simulated/remote robots |
 | 12:00 | Lunch | | |
 | 13:30 | Hands On II | | Hands on sessions with input devices and simulated/remote robots |
@@ -51,4 +51,4 @@ The objectives of the second half of the workshop are to provide an opportunity 
 | 15:30 | A multi-user-interface, multi-robot workcell for applications in surgical and rehabilitation robotics | Mahdi Tavakoli | Univ. of Alberta |
 | 15:45 | Simulation Environment for RAVEN II Surgical Robot | Homa Alemzadeh | Univ. of Virginia |
 | 16:00 | A Framework for Complementary Situation Awareness (CSA) | Russell Taylor | Johns Hopkins Univ. |
-| 16:15 | dVRK Community Research Highlights                      | Simon DiMaio | Intuitive Surgical |
+| 16:15 | [dVRK Community Research Highlights](https://github.com/collaborative-robotics/collaborative-robotics.github.io/blob/master/ismr-2019/dVRK_Community_Overview_2019-04-03.pdf) | Simon DiMaio | Intuitive Surgical |
