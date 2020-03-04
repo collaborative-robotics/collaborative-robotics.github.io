@@ -35,6 +35,7 @@ TBD
 | Infrastructure for Machine Learning in Minimally-Invasive Robotic Surgery | Peter Kazanzides | Johns Hopkins University |
 | Collaborative Robotics Toolkit (CRTK): Open Software Framework for Surgical Robotics Research | Melody Su | University of Washington |
 | SuPer: An Integrated Surgical Perception Framework for Endoscopic Image-guided Minimally Invasive Surgery | Michael Yip | Univ. of California, San Diego |
+| A Proposed Architecture for Cognitive Surgical Robots: Theoretical Background and Initial Experiments | Paolo Fiorini | Univ. of Verona |
 | Surgical Simulators to Support Machine Learning | Greg Fischer | Worcester Polytechnic Institute |
 | Data-Driven Error Correction for Soft-Tissue Simulations | Jie Ying Wu | Johns Hopkins University |
 | Machine Learning for Compliant Mechanism Calibration | Blake Hannaford | University of Washington |
