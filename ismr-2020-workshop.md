@@ -4,7 +4,7 @@ layout: default
 
 # [ISMR 2020](http://www.ismr.gatech.edu/) Workshop on Data-Driven Methods for Robotic Minimally-Invasive Surgery
 
-**Workshop Date:**  April 22, 2020 (full day)
+**Workshop Date:**  ~~April 22, 2020~~ **POSTPONED TO NOVEMBER** (full day)
 
 **Venue:** Georgia Institute of Technology, Atlanta, GA USA
 
