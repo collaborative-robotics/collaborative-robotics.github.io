@@ -24,22 +24,30 @@ The objective of this workshop is to engage the international community interest
 |-------------------------------|-----------------------|
 |Univ. of California, San Diego | University of Verona  |
 
-## Program
+## Tentative Program
 
-TBD
-
-## Confirmed Presentations
-
-| Title                       | Speaker        | Affiliation               |
-|-----------------------------|----------------|---------------------------|
-| Infrastructure for Machine Learning in Minimally-Invasive Robotic Surgery | Peter Kazanzides | Johns Hopkins University |
-| Collaborative Robotics Toolkit (CRTK): Open Software Framework for Surgical Robotics Research | Melody Su | University of Washington |
-| SuPer: An Integrated Surgical Perception Framework for Endoscopic Image-guided Minimally Invasive Surgery | Michael Yip | Univ. of California, San Diego |
-| A Proposed Architecture for Cognitive Surgical Robots: Theoretical Background and Initial Experiments | Paolo Fiorini | Univ. of Verona |
-| Surgical Simulators to Support Machine Learning | Greg Fischer | Worcester Polytechnic Institute |
-| Data-Driven Error Correction for Soft-Tissue Simulations | Jie Ying Wu | Johns Hopkins University |
-| Machine Learning for Compliant Mechanism Calibration | Blake Hannaford | University of Washington |
-| Towards Resilient Cyber-Physical Systems for Robotic Surgery | Homa Alemzadeh | University of Virginia |
-| Data-Driven Online Learning and Manipulation of Unmodeled Deformable Tissues and Continuum Robots | Farshid Alambeigi | University of Texas, Austin |
-| Deep Learning for Calibration and Control in Robot-Assisted Surgery | Ken Goldberg & Daniel Seita | Univ. of California, Berkeley |
-| Segmentation and Tracking of Endoscopic and Microscopic Surgical Instruments | Niveditha Kalavakonda | University of Washington |
+| Time  | Topic        | Speakers |
+|:------|:-------------|:---------|
+| 08:30 | Welcome and Workshop Overview | Peter Kazanzides (JHU) |
+| 08:45 | **Session 1: Infrastructure** | |
+| 08:45 | Infrastructure for machine learning in minimally-invasive robotic surgery | Peter Kazanzides (JHU) |
+| 09:00 | Collaborative Robotics Toolkit (CRTK): Open Software Framework for Surgical Robotics Research | Melody Su (UW) |
+| 09:15 | SuPer: An Integrated Surgical Perception Framework for Endoscopic Image-guided Minimally Invasive Surgery | Michael Yip (UCSD) |
+| 09:30 | Data-driven error correction for soft-tissue simulations | Jie Ying Wu (JHU) |
+| 09:45 | A Proposed Architecture for Cognitive Surgical Robots: Theoretical Background and Initial Experiments | Paolo Fiorini (Univ. of Verona) |
+| 10:00 | Coffee Break | | |
+| 10:30 | **Session 2: Applications** | |
+| 10:30 | Machine learning for compliant mechanism calibration | Blake Hannaford (UW) |
+| 10:45 | Towards Resilient Cyber-Physical Systems for Robotic Surgery | Homa Alemzadeh (Univ. of Virginia) |
+| 11:00 | Data-Driven Online Learning and Manipulation of Unmodeled Deformable Tissues and Continuum Robots | Farshid Alambeigi (Univ. of Texas, Austin) |
+| 11:15 | Deep Learning for Calibration and Control in Robot-Assisted Surgery | Daniel Seita (Univ. of California, Berkeley) |
+| 11:30 | Segmentation and Tracking of endoscopic and microscopic surgical Instruments | Niveditha Kalavakonda (Univ. of Washington) |
+| 11:45 | TBD ||
+| 12:00 | Lunch | | |
+| 13:30 | **Session 3: Simulators (Hands-On)** | |
+| 13:30 | Surgical Simulators to Support Machine Learning| Greg Fischer (WPI) |
+| 13:45 | Hands-on Session / Tutorial | Adnan Munawar (JHU), Farid Tavakkolmoghaddam (WPI) |
+| 15:00 | Coffee Break | |
+| 15:30 | **Session 4: Posters** | |
+| 15:30 | Poster teasers | |
+| 17:00 | Adjourn | | |
