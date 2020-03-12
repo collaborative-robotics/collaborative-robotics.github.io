@@ -14,6 +14,16 @@ layout: default
 
 The objective of this workshop is to engage the international community interested in data-driven methods for robotic minimally-invasive surgery. The primary application domain is the telesurgical approach exemplified in operating rooms by the da Vinci surgical system and in research labs by the da Vinci Research Kit (dVRK) and Raven II open platforms. The workshop will present recent developments of infrastructure to support machine learning in robotic surgery, which includes physical infrastructure, such as phantoms, data collection infrastructure, and software environments, including simulators. One goal is to build a worldwide collaboration focused on collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies, including NSF in the United States, ERC in the European Union and UGC in Hong Kong. The workshop will also provide a forum for researchers to present their results in data-driven methods for scene perception, intelligent assistance, semi-autonomous teleoperation and surgical autonomy.
 
+## Hands-On Simulator Session
+
+Attendees will have the opportunity to test out the [AMBF simulator](https://github.com/WPI-AIM/ambf) during Session 3.
+Interested participants should set up their laptop prior to the workshop, following the instructions provided here (TBD).
+
+## Call for Abstracts/Posters
+
+We plan to solicit abstracts for poster presentation, but this is currently on hold due to the Coronavirus situation.
+Travel awards will be offered to selected students who have accepted posters.
+
 ## Organizers
 
 |Peter Kazanzides          | Blake Hannaford           | Gregory S. Fischer              |
