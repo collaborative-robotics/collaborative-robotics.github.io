@@ -46,18 +46,17 @@ Travel awards will be offered to selected students who have accepted posters.
 | 09:30 | Data-driven error correction for soft-tissue simulations | Jie Ying Wu (JHU) |
 | 09:45 | A Proposed Architecture for Cognitive Surgical Robots: Theoretical Background and Initial Experiments | Paolo Fiorini (Univ. of Verona) |
 | 10:00 | Coffee Break | | |
-| 10:30 | **Session 2: Applications** | |
+| 13:30 | **Session 2: Simulators (Hands-On)** | |
+| 13:30 | Surgical Simulators to Support Machine Learning| Greg Fischer (WPI) |
+| 13:45 | Hands-on Session / Tutorial | Adnan Munawar (JHU), Farid Tavakkolmoghaddam (WPI) |
+| 12:00 | Lunch | | |
+| 10:30 | **Session 3: Applications** | |
 | 10:30 | Machine learning for compliant mechanism calibration | Blake Hannaford (UW) |
 | 10:45 | Towards Resilient Cyber-Physical Systems for Robotic Surgery | Homa Alemzadeh (Univ. of Virginia) |
 | 11:00 | Data-Driven Online Learning and Manipulation of Unmodeled Deformable Tissues and Continuum Robots | Farshid Alambeigi (Univ. of Texas, Austin) |
 | 11:15 | Deep Learning for Calibration and Control in Robot-Assisted Surgery | Daniel Seita (Univ. of California, Berkeley) |
 | 11:30 | Segmentation and Tracking of endoscopic and microscopic surgical Instruments | Niveditha Kalavakonda (Univ. of Washington) |
-| 11:45 | TBD ||
-| 12:00 | Lunch | | |
-| 13:30 | **Session 3: Simulators (Hands-On)** | |
-| 13:30 | Surgical Simulators to Support Machine Learning| Greg Fischer (WPI) |
-| 13:45 | Hands-on Session / Tutorial | Adnan Munawar (JHU), Farid Tavakkolmoghaddam (WPI) |
+| 11:45 | Poster teasers ||
 | 15:00 | Coffee Break | |
 | 15:30 | **Session 4: Posters** | |
-| 15:30 | Poster teasers | |
 | 17:00 | Adjourn | | |
