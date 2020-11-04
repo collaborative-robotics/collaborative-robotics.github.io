@@ -14,6 +14,7 @@ and Raven II, and other devices commonly used by researchers. The provided imple
 * [IROS 2018 Tutorial](./iros-2018-tutorial.md)
 * [ISMR 2019 Workshop](./ismr-2019-workshop.md)
 * [ISMR 2020 Workshop](./ismr-2020-workshop.md) -- **Postponed to ISMR 2021**
+* [CRTK 2021 Research Syposium](./crtk-2021-research-symposium.md) -- **New**
 
 # Links
 
