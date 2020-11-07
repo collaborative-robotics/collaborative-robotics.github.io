@@ -30,7 +30,7 @@ Planned themes include:
 
 ## Call for Contributions
 
-Please submit a 1/2 page abstract by 01-Dec-2020.
+Please submit a 1/2 page abstract by 01-Dec-2020 via this [google form](https://forms.gle/EG5Zwpn5un7r4CAeA).
 Contributions will be abstract-reviewed by the organizers.
 We encourage speakers to link their talks to an online document via public sites such as arXiv. 
 
