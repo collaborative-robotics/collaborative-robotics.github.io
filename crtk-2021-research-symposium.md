@@ -4,7 +4,7 @@ layout: default
 
 # Raven/dVRK Surgical Robotics Research Symposium
 
-**Symposium Date:**  TBD (Jan/Feb 2021)
+**Symposium Date:**  TBD (Feb/Mar 2021)
 
 **Location:** Online via Zoom
 
@@ -30,11 +30,12 @@ Planned themes include:
 
 ## Call for Contributions
 
-Please submit a 1/2 page abstract by 01-Dec-2020 via this [google form](https://forms.gle/EG5Zwpn5un7r4CAeA).
-Contributions will be abstract-reviewed by the organizers.
-We encourage speakers to link their talks to an online document via public sites such as arXiv. 
+Please submit a 1/2 page abstract by 15-Jan-2021 via this [google form](https://forms.gle/EG5Zwpn5un7r4CAeA).
+The form also includes a poll for possible symposium dates in late February or early March.
 
-Decisions and program will be announced by 10-Dec-2020.
+Contributions will be abstract-reviewed by the organizers. Decisions and program will be announced by 29-Jan-2021.
+
+We encourage speakers to link their talks to an online document via public sites such as arXiv.
 
 ## Organizers
 
