@@ -24,9 +24,10 @@ and Raven II, and other devices commonly used by researchers. The provided imple
 * [IROS 2018 Tutorial](./iros-2018-tutorial.md)
 * [ISMR 2019 Workshop](./ismr-2019-workshop.md)
 * [ISMR 2020 Workshop](./ismr-2020-workshop.md) -- **Postponed to ISMR 2021**
-* [CRTK 2021 Research Syposium](./crtk-2021-research-symposium.md) -- **New**
+* [CRTK 2021 Research Symposium](./crtk-2021-research-symposium.md)
+  * [Session 1: March 4, 2021](./crtk-2021-symposium-session-1.md)
 
 # Support
 
 This effort is supported by the US National Science Foundation (NSF), via NRI 1637789 (JHU), 1637444 (UW)
-and 1637759 (WPI).
+and 1637759 (WPI) and via AccelNet 1927354 (JHU) and 1927275 (WPI).
