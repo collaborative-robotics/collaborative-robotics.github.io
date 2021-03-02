@@ -21,7 +21,7 @@ All times are US Eastern (EST).
 | 10:15 | Estimation of Trocar and Tool Interaction Forces on the da Vinci Research Kit with Two-Step Deep Learning | Jie Ying Wu | JHU |
 | 10:30 | Three-hand surgery with foot control | Yanpei Huang | Imperial College |
 | 10:45 | Real-time Detection of Surgeon Stress Level During Laparoscopic Training | Yi Zheng | UT Austin |
-| 11:00 | Bimanual Coordination | Jacob Boehm | UT Austin }
+| 11:00 | Bimanual Coordination | Jacob Boehm | UT Austin |
 | 11:15 | Surgeon-Equivalent Automated Peg Transfer Using Depth-Sensing and Deep Recurrent Neural Networks | Minho Hwang | UC Berkeley |
 
 **Best Presentation Award:**
