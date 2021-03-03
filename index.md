@@ -25,7 +25,7 @@ and Raven II, and other devices commonly used by researchers. The provided imple
 * [ISMR 2019 Workshop](./ismr-2019-workshop.md)
 * [ISMR 2020 Workshop](./ismr-2020-workshop.md) -- **Postponed to ISMR 2021**
 * [CRTK 2021 Research Symposium](./crtk-2021-research-symposium.md)
-  * [Session 1: March 4, 2021](./crtk-2021-symposium-session-1.md)
+  * [Session 1: March 11, 2021](./crtk-2021-symposium-session-1.md)
 
 # Support
 

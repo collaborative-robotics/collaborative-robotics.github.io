@@ -4,7 +4,7 @@ layout: default
 
 # Raven/dVRK Surgical Robotics Research Symposium: Session 1
 
-**Date:**  March _, 2021
+**Date:**  March 11, 2021
 
 **Location:** Online via Zoom (link will be provided upon registration)
 
