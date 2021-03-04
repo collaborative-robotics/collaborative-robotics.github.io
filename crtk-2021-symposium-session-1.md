@@ -10,6 +10,9 @@ layout: default
 
 **Registration:** Registration required via this [google form](https://docs.google.com/forms/d/e/1FAIpQLSenvKbAyixMzZewi7WOuCRFa_iODPqa5Dzs_XbN2Xm_gtXx4w/viewform?usp=sf_link)
 
+**Summary:**
+
+This is the first session of an ongoing [research symposium series](./crtk-2021-research-symposium.md).
 
 **Agenda:**
 
