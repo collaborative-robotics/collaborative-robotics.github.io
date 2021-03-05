@@ -29,7 +29,7 @@ New sessions will be scheduled based on the abstracts received.
 
 ## Scheduled Sessions
 
-* [Session 1](./crtk-2021-symposium-session-1.md): March 11, 2021
+* [Session 1](symposium-session-1/crtk-2021-symposium-session-1.md): March 11, 2021
 
 ## Organizers
 
