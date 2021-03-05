@@ -12,7 +12,7 @@ layout: default
 
 **Summary:**
 
-This is the first session of an ongoing [research symposium series](./crtk-2021-research-symposium.md).
+This is the first session of an ongoing [research symposium series](../crtk-2021-research-symposium.md).
 
 **Agenda:**
 
