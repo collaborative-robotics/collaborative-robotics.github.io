@@ -1,6 +1,6 @@
 <div align="center"> <h2> Surgeon-Equivalent Automated Peg Transfer Using Depth-Sensing and Deep Recurrent Neural Networks </h2> </div>
 
-<div align="center"> Minho Hwang, Brijen Thananjeyan, Daniel Seita, Jeffrey Ichnowski, Samuel Paradis, Danyal Fer, Thomas Low, Ken Goldberg</div>
+<div align="center"> <h3> Minho Hwang, Brijen Thananjeyan, Daniel Seita, Jeffrey Ichnowski, Samuel Paradis, Danyal Fer, Thomas Low, Ken Goldberg </h3> </div>
 
 We consider the automation of the well-known peg-transfer task from the Fundamentals of
 Laparoscopic Surgery (FLS). While human surgeons teleoperate robots to perform this task with
