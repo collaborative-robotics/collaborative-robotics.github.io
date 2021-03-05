@@ -25,7 +25,7 @@ All times are US Eastern (EST).
 | 10:30 | Three-hand Surgery with Foot Control | Yanpei Huang | Imperial College |
 | 10:45 | Real-time Detection of Surgeon Stress Level During Laparoscopic Training | Yi Zheng | UT Austin |
 | 11:00 | Online Recognition of Bimanual Coordination Using a Theoretical Framework with Application to Robot Assisted Surgery | Jacob Boehm | UT Austin |
-| 11:15 | Surgeon-Equivalent Automated Peg Transfer Using Depth-Sensing and Deep Recurrent Neural Networks | Minho Hwang | UC Berkeley |
+| 11:15 | [Surgeon-Equivalent Automated Peg Transfer Using Depth-Sensing and Deep Recurrent Neural Networks](./automated-peg-transfer.md) | Minho Hwang | UC Berkeley |
 
 **Best Presentation Award:**
 
