@@ -29,4 +29,9 @@ All times are US Eastern (EST).
 
 **Best Presentation Award:**
 
-Intuitive Surgical is sponsoring a $500 award for the best presentation. The winner will be announced after the symposium and posted on this web page.
+Intuitive Surgical is sponsoring a $500 award for the best presentation.
+
+The judges have selected the following two presentations to share the award:
+
+* "Surgeon-Equivalent Automated Peg Transfer Using Depth-Sensing and Deep Recurrent Neural Networks", presented by Minho Hwang (UC Berkeley)
+* "Estimation of Trocar and Tool Interaction Forces on the da Vinci Research Kit with Two-Step Deep Learning", presented by Jie Ying Wu (JHU)
