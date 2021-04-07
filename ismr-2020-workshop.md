@@ -49,17 +49,17 @@ These presentations have not yet been confirmed for ISMR 2021 and are likely to 
 | 09:30 | Data-driven error correction for soft-tissue simulations | Jie Ying Wu (JHU) |
 | 09:45 | A Proposed Architecture for Cognitive Surgical Robots: Theoretical Background and Initial Experiments | Paolo Fiorini (Univ. of Verona) |
 | 10:00 | Coffee Break | | |
-| 13:30 | **Session 2: Simulators (Hands-On)** | |
-| 13:30 | Surgical Simulators to Support Machine Learning| Greg Fischer (WPI) |
-| 13:45 | Hands-on Session / Tutorial | Adnan Munawar (JHU), Farid Tavakkolmoghaddam (WPI) |
+| 10:30 | **Session 2: Simulators (Hands-On)** | |
+| 10:30 | Surgical Simulators to Support Machine Learning| Greg Fischer (WPI) |
+| 10:45 | Hands-on Session / Tutorial | Adnan Munawar (JHU), Farid Tavakkolmoghaddam (WPI) |
 | 12:00 | Lunch | | |
-| 10:30 | **Session 3: Applications** | |
-| 10:30 | Machine learning for compliant mechanism calibration | Blake Hannaford (UW) |
-| 10:45 | Towards Resilient Cyber-Physical Systems for Robotic Surgery | Homa Alemzadeh (Univ. of Virginia) |
-| 11:00 | Data-Driven Online Learning and Manipulation of Unmodeled Deformable Tissues and Continuum Robots | Farshid Alambeigi (Univ. of Texas, Austin) |
-| 11:15 | Deep Learning for Calibration and Control in Robot-Assisted Surgery | Daniel Seita (Univ. of California, Berkeley) |
-| 11:30 | Segmentation and Tracking of endoscopic and microscopic surgical Instruments | Niveditha Kalavakonda (Univ. of Washington) |
-| 11:45 | Poster teasers ||
+| 13:30 | **Session 3: Applications** | |
+| 13:30 | Machine learning for compliant mechanism calibration | Blake Hannaford (UW) |
+| 13:45 | Towards Resilient Cyber-Physical Systems for Robotic Surgery | Homa Alemzadeh (Univ. of Virginia) |
+| 14:00 | Data-Driven Online Learning and Manipulation of Unmodeled Deformable Tissues and Continuum Robots | Farshid Alambeigi (Univ. of Texas, Austin) |
+| 14:15 | Deep Learning for Calibration and Control in Robot-Assisted Surgery | Daniel Seita (Univ. of California, Berkeley) |
+| 14:30 | Segmentation and Tracking of endoscopic and microscopic surgical Instruments | Niveditha Kalavakonda (Univ. of Washington) |
+| 14:45 | Poster teasers ||
 | 15:00 | Coffee Break | |
 | 15:30 | **Session 4: Posters** | |
 | 17:00 | Adjourn | | |
