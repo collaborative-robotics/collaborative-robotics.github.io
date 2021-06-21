@@ -24,7 +24,7 @@ Each session will be 1.5 hours in length, with approximately 4-6 presentations. 
 ## Call for Contributions
 
 Interested speakers should submit a 1/2 page abstract via this
-[google form](https://forms.gle/EG5Zwpn5un7r4CAeA).
+[google form](https://forms.gle/GZv1nKkK9A6n1Tpy5).
 New sessions will be scheduled based on the abstracts received.
 
 ## Scheduled Sessions

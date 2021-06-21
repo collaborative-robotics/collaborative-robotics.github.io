@@ -16,6 +16,11 @@ This is the second session of an ongoing [research symposium series](../crtk-202
 organized as a [workshop](https://hamlynsymposium.org/events/raven-dvrk-surgical-robotics-research/)
 at the Hamlyn Symposium.
 
+**Call for Contributions:**
+
+Interested speakers should submit a 1/2 page abstract via this
+[google form](https://forms.gle/GZv1nKkK9A6n1Tpy5).
+
 **Agenda:**
 
 All times are US Eastern (EST).
