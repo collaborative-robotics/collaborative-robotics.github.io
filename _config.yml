@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman
-title: collaborative-robotics
+title: <a href="./">collaborative-robotics</a>
 description: Collaborative Robotics Toolkit (CRTK)
 show_downloads: false
-navbar-links:
-  Home: "./index.md"
