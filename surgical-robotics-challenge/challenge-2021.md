@@ -12,8 +12,6 @@ automation. The simulator contains two seven degrees-of-freedom (DOF) instrument
 System large needle driver, a controllable camera based on the da Vinci Endoscopic Camera Manipulator (ECM), a suturing
 phantom, and a needle with suture.
 
-<p align="center">
-<img src=/surgical-robotics-challenge/surgical_scene_ambf.gif width="480"/>
-</p>
+![Sample Surgical Scene](/surgical-robotics-challenge/surgical_scene_ambf.gif)
 
 **Please check back for details of the challenge.**
