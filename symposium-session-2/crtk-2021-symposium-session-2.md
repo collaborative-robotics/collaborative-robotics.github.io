@@ -8,7 +8,7 @@ layout: default
 
 **Location:** Online (link will be provided upon registration)
 
-**Registration:** TBD via [Hamlyn Symposium workshop](https://hamlynsymposium.org/events/raven-dvrk-surgical-robotics-research/)
+**Registration:** Registration required via this [google form](https://docs.google.com/forms/d/e/1FAIpQLSflfPNbpw4JQdYmeJW8zBGNfUK_snrwIE4qsUhyThvh6hNL_Q/viewform?usp=sf_link)
 
 **Summary:**
 
