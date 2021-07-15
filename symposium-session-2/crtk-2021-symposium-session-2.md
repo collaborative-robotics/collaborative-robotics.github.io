@@ -23,14 +23,17 @@ Interested speakers should submit a 1/2 page abstract via this
 
 **Agenda:**
 
-All times are US Eastern (EST).
+All times are US Eastern (EST). **Order of presentations subject to change.**
 
 | Time  | Title        | Speaker(s)  | Affiliation|
 |:------|:-------------|:------------|:--------------|
 | 10:00 | TBD          | TBD         | TBD           |
-| ...   | TBD          | TBD         | TBD           |
-| 11:30 | TBD          | TBD         | TBD           |
+| 10:15 | Multicamera 3D Viewpoint Adjustment for Robotic Surgery via Deep Reinforcement Learning  | Melody Su   | Mt. Holyoke College     |
+| 10:30 | Characterization of Haptic Feedback from  Multimodal Neural Network-based Force Estimates during Teleoperation | Zonghe Chua | Stanford University |
+| 10:45 | Controlling Cognitive Demands With Semi-Autonomous Suction Framework for Robotic-Assisted Surgery | Juan Antonio Barragan | Purdue University |
+| 11:00 | Toward Autonomous Suturing Using MOPS: A Modular and Open Platform for Surgical Robotics Research | Kim Lindberg Schwaner | Univ. of Southern Denmark |
+| 11:15 | A Sensorized Physical Simulator for Training in Robot-Assisted Lung Lobectomy | Dario Galeazzi | Politecnico di Milano |
 
 **Best Presentation Award:**
 
-We plan to offer an award for the best presentation.
+Intuitive Surgical is sponsoring a $500 award for the best presentation.
