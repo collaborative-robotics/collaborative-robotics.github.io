@@ -7,7 +7,7 @@ While robot-assisted minimally invasive surgery (RMIS) procedures afford a varie
 
 \[2\] A. Pandya, L. Reisner, B. King, N. Lucas, A. Composto, M. Klein and R. Ellis, A review of camera viewpoint automation in robotic and laparoscopic surgery, Robotics 3(3) (2014) 310-329.
 
-\[3\] O. Weede, H. M¨onnich, B. M¨uller and H. W¨orn, An intelligent and autonomous endoscopic guidance system for minimally invasive surgery, 2011 IEEE International Conference on Robotics and Automation, IEEE (2011), pp. 5762-5768.
+\[3\] O. Weede, H. Moennich, B. Mueller and H. Woern, An intelligent and autonomous endoscopic guidance system for minimally invasive surgery, 2011 IEEE International Conference on Robotics and Automation, IEEE (2011), pp. 5762-5768.
 
 \[4\] K.-T. Song and C.-J. Chen, Autonomous and stable tracking of endoscope instrument tools with monocular camera, 2012 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), IEEE (2012), pp. 39-44.
 
