@@ -29,6 +29,10 @@ All times are US Eastern (EST).
 | 11:00 | [Controlling Cognitive Demands With Semi-Autonomous Suction Framework for Robotic-Assisted Surgery](./semi-autonomous-suction.md) | Juan Antonio Barragan | Purdue University |
 | 11:15 | [A Sensorized Physical Simulator for Training in Robot-Assisted Lung Lobectomy](./sensorized-training.md) | Dario Galeazzi | Politecnico di Milano |
 
+**Link to Recorded Video**
+
+The workshop video can be found on the [Hamlyn Symposium YouTube channel](https://youtu.be/apddu_CtdKo).
+
 **Best Presentation Award:**
 
 Intuitive Surgical is sponsoring a $500 award for the best presentation.
