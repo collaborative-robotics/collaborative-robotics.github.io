@@ -13,7 +13,7 @@ contains two seven degrees-of-freedom (DOF) instrument arms based on the da Vinc
 large needle driver, a controllable camera based on the da Vinci Endoscopic Camera Manipulator
 (ECM), a suturing phantom, and a needle with suture.
 
-![Sample Surgical Scene](/surgical-robotics-challenge/figure_eight.mp4)
+![Sample Surgical Scene](/surgical-robotics-challenge/figure_eight.gif)
 
 **Please check back for details of the challenge. Tentative details below -- subject to change.**
 
