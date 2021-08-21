@@ -17,16 +17,34 @@ large needle driver, a controllable camera based on the da Vinci Endoscopic Came
 
 **Please check back for details of the challenge. Tentative details below -- subject to change.**
 
+## Timeline
+
+September 1, 2021:  Challenge opens
+
+February 1, 2022:  Challenge closes (all Docker containers must be submitted)
+
+March 1, 2022:  Challenge results announced
+
+## Awards
+
+Awards will be given for the winning entries in each challenge. Details to be announced.
+
 ## System Setup
 
 The challenge is based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf)
-simulator, Version TBD. We will provide the following two Docker containers, so that competitors can choose
-the most convenient configuration:
+simulator, *Version 2.0.X*, along with the
+[Surgical Robotics Challenge Assets](https://github.com/adnanmunawar/surgical_robotics_challenge).
+To install AMBF and the associated assets (including the launch file), follow the instructions
+[here](https://github.com/adnanmunawar/surgical_robotics_challenge).
+Note that AMBF and the Assets should be installed directly on Linux, rather than within Docker.
+
+We will provide Docker containers that contain Linux, ROS and Python scripts that use ROS to communicate
+with AMBF running outside Docker.
+Challenge competitors should add all required software to the Docker container and submit it
+for judging via a link to be provided.
+Competitors can choose the most convenient configuration from one of the two provided Docker containers:
 1. Ubuntu 18.04, ROS Melodic, and sample Python scripts.
 2. Ubuntu 20.04, ROS Noetic, and sample Python scripts.
-
-AMBF should be installed directly on Linux, rather than using it within Docker.
-The Python scripts in the Docker container use ROS to communicate with AMBF running outside the Docker container.
 
 ## Challenge Tasks
 
