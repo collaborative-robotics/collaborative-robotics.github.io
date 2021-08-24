@@ -36,3 +36,7 @@ The workshop video can be found on the [Hamlyn Symposium YouTube channel](https:
 **Best Presentation Award:**
 
 Intuitive Surgical is sponsoring a $500 award for the best presentation.
+
+The judges have selected the following presentation:
+
+"Controlling Cognitive Demands With Semi-Autonomous Suction Framework for Robotic-Assisted Surgery", presented by Juan Antonio Barragan (Purdue University)
