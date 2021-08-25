@@ -17,8 +17,9 @@ large needle driver, a controllable camera based on the da Vinci Endoscopic Came
 
 **Please check back for details of the challenge. Tentative details below -- subject to change.**
 
-<video width="320" height="240" controls>
+<video width="640" height="480" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/figure_eight.mp4">
+Your browser does not support the video tag.
 </video>
 
 ## Timeline
