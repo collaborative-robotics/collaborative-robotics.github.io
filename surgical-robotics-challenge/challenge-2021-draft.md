@@ -17,11 +17,6 @@ large needle driver, a controllable camera based on the da Vinci Endoscopic Came
 
 **Please check back for details of the challenge. Tentative details below -- subject to change.**
 
-<video width="640" height="480" autoplay muted loop>
-  <source type="video/mp4" src="/surgical-robotics-challenge/figure_eight.mp4">
-Your browser does not support the video tag.
-</video>
-
 ## Timeline
 
 **September 1, 2021:**  Challenge opens
@@ -99,6 +94,11 @@ second time limit.
 and drive the needle through the tissue until the tip exits. The accuracy of the simulated robot
 will be comparable to that of a real robot and thus visual feedback would be required to ensure
 accurate performance.
+
+<video width="640" height="480" autoplay muted loop>
+  <source type="video/mp4" src="/surgical-robotics-challenge/task2_clip.mp4">
+Your browser does not support the video tag.
+</video>
 
 **Provided Data:**
 1. Ground-truth pose of needle
