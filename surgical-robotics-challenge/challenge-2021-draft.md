@@ -95,7 +95,7 @@ and drive the needle through the tissue until the tip exits. The accuracy of the
 will be comparable to that of a real robot and thus visual feedback would be required to ensure
 accurate performance.
 
-<video width="640" height="480" autoplay muted loop>
+<video width="960" height="540" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task2_clip.mp4">
 Your browser does not support the video tag.
 </video>
@@ -128,6 +128,11 @@ the corresponding exit point. The left instrument should pull the needle through
 hand back the needle to the right instrument. This completes one suture. The algorithm should repeat
 the entry and exit for each pair of points.  As in the previous challenges, the accuracy of the
 simulated robot will be comparable to that of a real robot.
+
+<video width="960" height="540" autoplay muted loop>
+  <source type="video/mp4" src="/surgical-robotics-challenge/task3_clip.mp4">
+Your browser does not support the video tag.
+</video>
 
 **Provided Data:**
 1. The positions of all entry and exit points on the phantom
