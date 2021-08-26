@@ -49,12 +49,17 @@ requirement to use a particular type of machine learning, or even to use machine
 All entries will be tested under the same set of test conditions. Descriptions of the test
 conditions for each challenge are provided below.
 
-### [Challenge 1: Finding the needle](/surgical-robotics-challenge/challenge-1.md)
+### [Challenge 1: Finding the needle](./challenge-1.md)
 
 **Task:** Develop algorithms to identify the pose (position and orientation) of the metallic suture
 needle, with respect to the current endoscope pose.
 
-### [Challenge 2: Grasp needle and drive through tissue](/surgical-robotics-challenge/challenge-2.md)
+<video width="480" height="270" autoplay muted loop>
+  <source type="video/mp4" src="/surgical-robotics-challenge/task1_clip.mp4">
+Your browser does not support the video tag.
+</video>
+
+### [Challenge 2: Grasp needle and drive through tissue](./challenge-2.md)
 
 **Task:** Move large needle driver to grasp the needle and then move the needle tip to the target
 and drive the needle through the tissue until the tip exits. The accuracy of the simulated robot
@@ -66,7 +71,7 @@ accurate performance.
 Your browser does not support the video tag.
 </video>
 
-### [Challenge 3: Suture the phantom](/surgical-robotics-challenge/challenge-3.md)
+### [Challenge 3: Suture the phantom](./challenge-3.md)
 
 **Task:** Develop algorithms to drive the needle through the phantom from the first entry point to
 the corresponding exit point. The left instrument should pull the needle through the phantom and

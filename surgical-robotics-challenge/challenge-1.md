@@ -8,6 +8,11 @@ layout: default
 Develop algorithms to identify the pose (position and orientation) of the metallic suture
 needle, with respect to the current endoscope pose.
 
+<video width="960" height="540" autoplay muted loop>
+  <source type="video/mp4" src="/surgical-robotics-challenge/task1_clip.mp4">
+Your browser does not support the video tag.
+</video>
+
 ##Provided Data
 1. 3D model of needle (part of AMBF scene)
 2. Camera calibration
