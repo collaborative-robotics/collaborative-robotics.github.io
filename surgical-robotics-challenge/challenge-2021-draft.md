@@ -54,7 +54,8 @@ conditions for each challenge are provided below.
 ### [Challenge 1: Finding the needle](./challenge-1.md)
 
 **Task:** Develop algorithms to identify the pose (position and orientation) of the metallic suture
-needle, with respect to the current endoscope pose.
+needle, with respect to the current endoscope pose. The video below shows two sample endoscope images.
+[More...](./challenge-1.md).
 
 <video width="480" height="270" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task1_clip.mp4">
@@ -65,10 +66,11 @@ Your browser does not support the video tag.
 
 ### [Challenge 2: Grasp needle and drive through tissue](./challenge-2.md)
 
-**Task:** Move large needle driver to grasp the needle and then move the needle tip to the target
+**Task:** As shown in the video below, the task is to move the large needle driver to grasp the needle and then move the needle tip to the target
 and drive the needle through the tissue until the tip exits. The accuracy of the simulated robot
 will be comparable to that of a real robot and thus visual feedback would be required to ensure
 accurate performance.
+[More...](./challenge-2.md).
 
 <video width="480" height="270" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task2_clip.mp4">
@@ -79,11 +81,12 @@ Your browser does not support the video tag.
 
 ### [Challenge 3: Suture the phantom](./challenge-3.md)
 
-**Task:** Develop algorithms to drive the needle through the phantom from the first entry point to
+**Task:** As shown in the video below, the task is to develop algorithms to drive the needle through the phantom from the first entry point to
 the corresponding exit point. The left instrument should pull the needle through the phantom and
 hand back the needle to the right instrument. This completes one suture. The algorithm should repeat
 the entry and exit for each pair of points.  As in the previous challenges, the accuracy of the
 simulated robot will be comparable to that of a real robot.
+[More...](./challenge-3.md).
 
 <video width="480" height="270" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task3_clip.mp4">
@@ -94,5 +97,6 @@ Your browser does not support the video tag.
 
 ### Acknowledgments
 
+<p><img src="/images/NSF-logo.png" alt="NSF Logo" style="float:left;width:42px;height:42px;">
 Development of this Surgical Robotics Challenge is supported by the United States National Science Foundation (NSF)
-via OISE-1927354 and OISE-1927275, "AccelNet: International Collaboration to Accelerate Research in Robotic Surgery".
+via OISE-1927354 and OISE-1927275, "AccelNet: International Collaboration to Accelerate Research in Robotic Surgery".</p>
