@@ -59,9 +59,11 @@ conditions for each challenge are provided below.
 Your browser does not support the video tag.
 </video></div>
 
-**Task:** Develop algorithms to identify the pose (position and orientation) of the metallic suture
+<p>
+<b>Task:</b> Develop algorithms to identify the pose (position and orientation) of the metallic suture
 needle, with respect to the current endoscope pose. The video below shows two sample endoscope images.
-[More...](./challenge-1.md).
+<a href="./challenge-1.html">[More...]</a>.
+</p>
 
 <br>
 
@@ -76,11 +78,11 @@ Your browser does not support the video tag.
 </video></div>
 
 <p>
-**Task:** Move the large needle driver to grasp the needle and then move the needle tip to the target
+<b>Task:</b> Move the large needle driver to grasp the needle and then move the needle tip to the target
 and drive the needle through the tissue until the tip exits. The accuracy of the simulated robot
 will be comparable to that of a real robot and thus visual feedback would be required to ensure
 accurate performance.
-[More...](./challenge-2.md).
+<a href="./challenge-2.html">[More...]</a>.
 </p>
 
 <br>
@@ -96,12 +98,12 @@ Your browser does not support the video tag.
 </video></div>
 
 <p>
-**Task:** Drive the needle through the phantom from the first entry point to
+<b>Task:</b> Drive the needle through the phantom from the first entry point to
 the corresponding exit point. The left instrument should pull the needle through the phantom and
 hand back the needle to the right instrument. This completes one suture. The algorithm should repeat
 the entry and exit for each pair of points.  As in the previous challenges, the accuracy of the
 simulated robot will be comparable to that of a real robot.
-[More...](./challenge-3.md).
+<a href="./challenge-3.html">[More...]</a>.
 </p>
 
 <br>
