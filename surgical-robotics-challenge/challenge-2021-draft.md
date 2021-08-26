@@ -81,6 +81,12 @@ Your browser does not support the video tag.
 
 ### [Challenge 3: Suture the phantom](./challenge-3.md)
 
+<div style="float:right">
+<video width="480" height="270" autoplay muted loop>
+  <source type="video/mp4" src="/surgical-robotics-challenge/task3_clip.mp4">
+Your browser does not support the video tag.
+</video></div>
+
 **Task:** As shown in the video below, the task is to develop algorithms to drive the needle through the phantom from the first entry point to
 the corresponding exit point. The left instrument should pull the needle through the phantom and
 hand back the needle to the right instrument. This completes one suture. The algorithm should repeat
@@ -97,6 +103,6 @@ Your browser does not support the video tag.
 
 ### Acknowledgments
 
-<p><img src="/images/NSF-logo.png" alt="NSF Logo" style="float:left;width:42px;height:42px;">
+<p><img src="/images/NSF-logo.png" alt="NSF Logo" style="float:left;width:80px;height:80px;">
 Development of this Surgical Robotics Challenge is supported by the United States National Science Foundation (NSF)
 via OISE-1927354 and OISE-1927275, "AccelNet: International Collaboration to Accelerate Research in Robotic Surgery".</p>
