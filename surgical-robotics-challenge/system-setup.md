@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## System Setup
+
 The challenge is based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf)
 simulator, *Version 2.0.X*, along with the
 [Surgical Robotics Challenge Assets](https://github.com/adnanmunawar/surgical_robotics_challenge).

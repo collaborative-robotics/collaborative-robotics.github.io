@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2021 Raven/dVRK Surgical Robotics Challenge (online)
+# 2021 CRTK Surgical Robotics Challenge (online)
 
 Automating surgical subtasks is an oft-mentioned research target for robot-assisted surgery. Certain
 subtasks, such as suturing and resection, have been automated on test bench setups. Yet current
@@ -30,7 +30,7 @@ Awards will be given for the winning entries in each challenge. Details to be an
 The challenge is based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf)
 simulator. Participants will be required to install AMBF on a Linux system and download a Docker
 container. Algorithms must be implemented within a Docker container and submitted for testing.
-Additional details are provided [here](/surgical-robotics-challenge/system-setup.md).
+Additional details are provided [here](./system-setup.md).
 
 
 ## Challenge Tasks
