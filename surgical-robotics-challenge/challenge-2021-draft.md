@@ -51,9 +51,9 @@ conditions for each challenge are provided below.
 
 <hr>
 
-<div>
 ### [Challenge 1: Finding the needle](./challenge-1.md)
 
+<div>
 <div style="float:right; margin-left:25px">
 <video width="480" height="270" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task1_clip.mp4">
@@ -67,9 +67,9 @@ needle, with respect to the current endoscope pose. The video below shows two sa
 
 <hr>
 
-<div>
 ### [Challenge 2: Grasp needle and drive through tissue](./challenge-2.md)
 
+<div>
 <div style="float:right; margin-left:25px">
 <video width="480" height="270" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task2_clip.mp4">
@@ -85,9 +85,9 @@ accurate performance.
 
 <hr>
 
-<div>
 ### [Challenge 3: Suture the phantom](./challenge-3.md)
 
+<div>
 <div style="float:right; margin-left:25px">
 <video width="480" height="270" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task3_clip.mp4">
