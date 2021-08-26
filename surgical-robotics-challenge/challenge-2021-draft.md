@@ -53,51 +53,49 @@ conditions for each challenge are provided below.
 
 ### [Challenge 1: Finding the needle](./challenge-1.md)
 
-**Task:** Develop algorithms to identify the pose (position and orientation) of the metallic suture
-needle, with respect to the current endoscope pose. The video below shows two sample endoscope images.
-[More...](./challenge-1.md).
-
+<div style="float:right; margin-left:25px">
 <video width="480" height="270" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task1_clip.mp4">
 Your browser does not support the video tag.
-</video>
+</video></div>
+
+**Task:** Develop algorithms to identify the pose (position and orientation) of the metallic suture
+needle, with respect to the current endoscope pose. The video below shows two sample endoscope images.
+[More...](./challenge-1.md).
 
 <hr>
 
 ### [Challenge 2: Grasp needle and drive through tissue](./challenge-2.md)
 
-**Task:** As shown in the video below, the task is to move the large needle driver to grasp the needle and then move the needle tip to the target
+<div style="float:right; margin-left:25px">
+<video width="480" height="270" autoplay muted loop>
+  <source type="video/mp4" src="/surgical-robotics-challenge/task2_clip.mp4">
+Your browser does not support the video tag.
+</video></div>
+
+**Task:** Move the large needle driver to grasp the needle and then move the needle tip to the target
 and drive the needle through the tissue until the tip exits. The accuracy of the simulated robot
 will be comparable to that of a real robot and thus visual feedback would be required to ensure
 accurate performance.
 [More...](./challenge-2.md).
 
-<video width="480" height="270" autoplay muted loop>
-  <source type="video/mp4" src="/surgical-robotics-challenge/task2_clip.mp4">
-Your browser does not support the video tag.
-</video>
 
 <hr>
 
 ### [Challenge 3: Suture the phantom](./challenge-3.md)
 
-<div style="float:right">
+<div style="float:right; margin-left:25px">
 <video width="480" height="270" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task3_clip.mp4">
 Your browser does not support the video tag.
 </video></div>
 
-**Task:** As shown in the video below, the task is to develop algorithms to drive the needle through the phantom from the first entry point to
+**Task:** Drive the needle through the phantom from the first entry point to
 the corresponding exit point. The left instrument should pull the needle through the phantom and
 hand back the needle to the right instrument. This completes one suture. The algorithm should repeat
 the entry and exit for each pair of points.  As in the previous challenges, the accuracy of the
 simulated robot will be comparable to that of a real robot.
 [More...](./challenge-3.md).
-
-<video width="480" height="270" autoplay muted loop>
-  <source type="video/mp4" src="/surgical-robotics-challenge/task3_clip.mp4">
-Your browser does not support the video tag.
-</video>
 
 <hr>
 
