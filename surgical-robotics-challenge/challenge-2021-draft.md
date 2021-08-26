@@ -45,9 +45,10 @@ endoscope).
 
 The only requirement is that the developed algorithms perform the tasks autonomously. There is no
 requirement to use a particular type of machine learning, or even to use machine learning at all.
+Note that the videos below for Challenges 2 and 3 were created using teleoperation.
 
 All entries will be tested under the same set of test conditions. Descriptions of the test
-conditions for each challenge are provided below.
+conditions are provided in the detailed pages for each challenge.
 
 <hr>
 
