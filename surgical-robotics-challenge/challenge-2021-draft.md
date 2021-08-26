@@ -107,4 +107,4 @@ the entry and exit for each pair of points.
 
 <p><img src="/images/NSF-logo.png" alt="NSF Logo" style="float:left; width:80px; height:80px; margin-right:25px">
 Development of this Surgical Robotics Challenge is supported by the United States National Science Foundation (NSF)
-via OISE-1927354 and OISE-1927275, "AccelNet: International Collaboration to Accelerate Research in Robotic Surgery".</p>
+via OISE-1927354 and OISE-1927275, <i>AccelNet: International Collaboration to Accelerate Research in Robotic Surgery</i>.</p>
