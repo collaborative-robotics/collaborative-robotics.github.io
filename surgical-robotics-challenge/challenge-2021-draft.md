@@ -97,8 +97,7 @@ Your browser does not support the video tag.
 <b>Task:</b> Drive the needle through the phantom from the first entry point to
 the corresponding exit point. The left instrument should pull the needle through the phantom and
 hand back the needle to the right instrument. This completes one suture. The algorithm should repeat
-the entry and exit for each pair of points.  As in the previous challenges, the accuracy of the
-simulated robot will be comparable to that of a real robot.
+the entry and exit for each pair of points.
 <a href="./challenge-3.html">[More...]</a>.
 </p>
 
