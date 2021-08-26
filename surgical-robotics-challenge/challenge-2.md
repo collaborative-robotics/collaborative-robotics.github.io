@@ -39,6 +39,6 @@ Entries will be judged based on the time the algorithm required to perform
 the task and the achieved accuracy. Accuracy will be measured by the distance between the needle
 trajectory and the target entry and exit positions, and the amount of needle that is visible
 beyond the exit point. All entries must be within *TBD (5 mm?)* of the target entry/exit and at
-least *TBD (5 mm?)* of the neele tip must be visible. All entries that pass the accuracy threshold
+least *TBD (5 mm?)* of the needle tip must be visible. All entries that pass the accuracy threshold
 will be ranked based on completion time.
 
