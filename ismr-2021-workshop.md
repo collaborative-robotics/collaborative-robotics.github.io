@@ -18,7 +18,7 @@ The objective of this workshop is to engage the international community interest
 
 ## Hands-On Simulator Session
 
-Attendees will have the opportunity to test out the [AMBF simulator](https://github.com/WPI-AIM/ambf) during Session 3.
+Attendees will have the opportunity to test out the [AMBF simulator](https://github.com/WPI-AIM/ambf) during Session 2.
 Interested participants should set up their laptop prior to the workshop, following the instructions provided here (TBD).
 
 ## Call for Abstracts/Posters
