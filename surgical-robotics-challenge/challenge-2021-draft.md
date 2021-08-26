@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2021 CRTK Surgical Robotics Challenge (online)
+# 2021 AccelNet Surgical Robotics Challenge (online)
 
 Automating surgical subtasks is an oft-mentioned research target for robot-assisted surgery. Certain
 subtasks, such as suturing and resection, have been automated on test bench setups. Yet current
@@ -49,6 +49,8 @@ requirement to use a particular type of machine learning, or even to use machine
 All entries will be tested under the same set of test conditions. Descriptions of the test
 conditions for each challenge are provided below.
 
+<hr>
+
 ### [Challenge 1: Finding the needle](./challenge-1.md)
 
 **Task:** Develop algorithms to identify the pose (position and orientation) of the metallic suture
@@ -58,6 +60,8 @@ needle, with respect to the current endoscope pose.
   <source type="video/mp4" src="/surgical-robotics-challenge/task1_clip.mp4">
 Your browser does not support the video tag.
 </video>
+
+<hr>
 
 ### [Challenge 2: Grasp needle and drive through tissue](./challenge-2.md)
 
@@ -71,6 +75,8 @@ accurate performance.
 Your browser does not support the video tag.
 </video>
 
+<hr>
+
 ### [Challenge 3: Suture the phantom](./challenge-3.md)
 
 **Task:** Develop algorithms to drive the needle through the phantom from the first entry point to
@@ -83,3 +89,10 @@ simulated robot will be comparable to that of a real robot.
   <source type="video/mp4" src="/surgical-robotics-challenge/task3_clip.mp4">
 Your browser does not support the video tag.
 </video>
+
+<hr>
+
+### Acknowledgments
+
+Development of this Surgical Robotics Challenge is supported by the United States National Science Foundation (NSF)
+via OISE-1927354 and OISE-1927275, "AccelNet: International Collaboration to Accelerate Research in Robotic Surgery".
