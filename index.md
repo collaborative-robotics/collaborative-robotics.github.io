@@ -31,6 +31,6 @@ and Raven II, and other devices commonly used by researchers. The provided imple
 
 # Support
 
-<p><img src="/images/NSF-logo.png" alt="NSF Logo" style="float:left; width:64px; height:64px; margin-right:25px">
+<p><img src="/images/NSF-logo.png" alt="NSF Logo" style="float:left; width:80px; height:80px; margin-right:25px">
 This effort is supported by the US National Science Foundation (NSF), via NRI 1637789 (JHU), 1637444 (UW)
 and 1637759 (WPI) and via AccelNet 1927354 (JHU) and 1927275 (WPI).</p>
