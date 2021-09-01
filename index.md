@@ -27,7 +27,7 @@ and Raven II, and other devices commonly used by researchers. The provided imple
 * [CRTK 2021 Research Symposium](./crtk-2021-research-symposium.md)
   * [Session 1: March 11, 2021](./symposium-session-1/crtk-2021-symposium-session-1.md)
   * [Session 2: July 19, 2021 (*Hamlyn Edition*)](./symposium-session-2/crtk-2021-symposium-session-2.md)
-* [Surgical Robotics Challenge, 2021](./surgical-robotics-challenge/challenge-2021.md)
+* [AccelNet Surgical Robotics Challenge, 2021](./surgical-robotics-challenge/challenge-2021.md)
 
 # Support
 
