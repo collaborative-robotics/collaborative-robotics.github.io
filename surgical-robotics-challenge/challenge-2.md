@@ -32,13 +32,15 @@ goals), but then will use the perturbed kinematic parameters in the forward kine
 the Cartesian trajectory of the simulated robot. For some trials, the kinematic parameters will
 have little or no error, thereby allowing the task to be completed without visual feedback,
 whereas for other trials, visual feedback will be necessary to successfully complete the task.
+Stereo endoscope video will be provided at 1080p resolution at 30 fps.
 
 ### Evaluation Metric
 
 Entries will be judged based on the time the algorithm required to perform
 the task and the achieved accuracy. Accuracy will be measured by the distance between the needle
 trajectory and the target entry and exit positions, and the amount of needle that is visible
-beyond the exit point. All entries must be within *TBD (5 mm?)* of the target entry/exit and at
-least *TBD (5 mm?)* of the needle tip must be visible. All entries that pass the accuracy threshold
+beyond the exit point. All entries must be within +/-2.5 mm of the target entry/exit and at
+least 5 mm of the needle tip must be visible. Note that the squares surrounding the entry/exit points have dimensions
+5 mm x 5 mm, so the needle must pass within these squares. All entries that pass the accuracy threshold
 will be ranked based on completion time.
 

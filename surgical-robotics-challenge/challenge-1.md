@@ -25,7 +25,9 @@ Your browser does not support the video tag.
 Each entry will be tested with different views of the surgical scene, with the
 needle in different locations. The entire needle will be in the field-of-view. One or two
 instruments may be present in the scene but will not overlap with the needle. The needle will be
-located between *MIN* and *MAX* meters from the endoscope. Lighting can vary as specified above.
+located between 100 mm and 200 mm from the endoscope. Lighting can vary as specified above.
+Stereo endoscope video will be provided at 1080p resolution at 30 fps.
+
 
 ### Evaluation Metric
 
