@@ -24,7 +24,7 @@ large needle driver, a controllable camera based on the da Vinci Endoscopic Came
 ## Awards
 
 Awards will be given for the winning entries in each challenge. The awards will consist of
-cash prizes and travel grants to a future (in-person) AccelNet Surgical Robotics Challenge
+cash prizes and travel grants to a future (in-person) AccelNet Surgical Robotics Challenge.
 Details to be announced.
 
 ## System Setup
