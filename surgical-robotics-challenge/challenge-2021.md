@@ -40,7 +40,7 @@ Additional details are provided [here](./system-setup.md).
 The challenge is partitioned into three tasks summarized below. While these tasks naturally build on each other, it
 is possible to perform any subset of the tasks. All tasks will use a suturing phantom,
 a needle with suture, and up to two da Vinci
-large needle drivers. The view of the scene is provided by a simulated stereo endoscope, with a
+large needle drivers. The view of the scene is provided by a simulated stereo endoscope (1080p, 30fps), with a
 camera baseline as in a real da Vinci. By default, there is one light attached to the endoscope, but
 lighting can vary up to twice this amount (i.e., equivalent to two lights attached to the
 endoscope).
