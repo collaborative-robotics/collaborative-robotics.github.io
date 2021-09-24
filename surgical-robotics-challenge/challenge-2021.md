@@ -106,6 +106,10 @@ the entry and exit for each pair of points.
 
 <hr>
 
+### Contact
+
+Email: accelnet-robotics-challenge-admin@googlegroups.com
+
 ### Acknowledgments
 
 <p><img src="/images/NSF-logo.png" alt="NSF Logo" style="float:left; width:80px; height:80px; margin-right:25px">
