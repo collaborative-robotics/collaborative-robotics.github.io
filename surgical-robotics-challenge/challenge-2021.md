@@ -108,7 +108,7 @@ the entry and exit for each pair of points.
 
 ### Contact
 
-Email: accelnet-robotics-challenge-admin@googlegroups.com
+Email: [accelnet-robotics-challenge-admin@googlegroups.com](mailto:accelnet-robotics-challenge-admin@googlegroups.com)
 
 ### Acknowledgments
 
