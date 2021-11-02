@@ -8,7 +8,7 @@ layout: default
 
 **Venue:** Georgia Institute of Technology, Atlanta, GA USA
 
-**Location:** TBD
+**Location:** Marcus 1118
 
 ## Objectives
 
