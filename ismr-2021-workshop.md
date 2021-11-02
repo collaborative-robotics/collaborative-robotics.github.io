@@ -54,7 +54,7 @@ Travel awards will be offered to selected students who have accepted posters.
 | 12:00 | Lunch | | |
 | 13:30 | **Session 3: Applications** | |
 | 13:30 | Machine Learning for Compliant Mechanism Calibration | Blake Hannaford (UW) |
-| 13:45 | Towards Resilient Cyber-Physical Systems for Robotic Surgery | Homa Alemzadeh (Univ. of Virginia) |
+| 13:45 | Data-Driven Detection of Executional Errors in Robot-Assisted Surgery | Homa Alemzadeh (Univ. of Virginia) |
 | 14:00 | Data-Driven Online Learning and Manipulation of Unmodeled Deformable Tissues and Continuum Robots | Farshid Alambeigi (Univ. of Texas, Austin) |
 | 14:15 | Deep Learning for Calibration and Control in Robot-Assisted Surgery | Ken Goldberg, Daniel Seita, Minho Hwang or Brijen Thananjeyan (Univ. of California, Berkeley) |
 | 14:30 | Segmentation and Tracking of Endoscopic and Microscopic Surgical Instruments | Niveditha Kalavakonda (Univ. of Washington) |
