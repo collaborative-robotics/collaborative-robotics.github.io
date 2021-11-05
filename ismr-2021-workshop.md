@@ -19,7 +19,18 @@ The objective of this workshop is to engage the international community interest
 ## Hands-On Simulator Session
 
 Attendees will have the opportunity to test out the [AMBF simulator](https://github.com/WPI-AIM/ambf) during Session 2.
-Interested participants should set up their laptop prior to the workshop, following the instructions provided here (TBD).
+Interested participants should set up their laptop prior to the workshop. There are two different ways to install AMBF on your machine:
+
+  1. **(Preferred)** Install Ubuntu 18.04 or 20.04 on your computer and install the relevant ROS [version](http://wiki.ros.org/ROS/Installation). Then install AMBF based on these [instructions](https://github.com/WPI-AIM/ambf/blob/ambf-2.0/README.md).
+  2. If you instead prefer to use MacOS or a Windows computer, and do not wish to create a bootable Ubuntu partition, you can use the AMBF [docker](https://github.com/collaborative-robotics/docker-ambf) image and install it according to these [instructions](https://github.com/collaborative-robotics/docker-ambf). The performance of AMBF would be limited in this case.
+
+The agenda for this session is as follows:
+
+  1. Introduction to AMBF 2.0.
+  2. Creating robots and environments using the [Blender-AMBF Addon](https://github.com/WPI-AIM/ambf_addon) (Hands-on).
+  3. Controlling robots and acquring scene data from the [surgical robotics challenge environment](https://github.com/collaborative-robotics/surgical_robotics_challenge) (Hands-on).
+  4. Application: Interfacing AMBF with RBDL for creating dynamic controllers.
+  5. QnA.
 
 ## Call for Abstracts/Posters
 
