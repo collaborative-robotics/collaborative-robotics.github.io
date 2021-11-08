@@ -28,7 +28,7 @@ The agenda for this session is as follows:
 
   1. Introduction to AMBF 2.0.
   2. Creating robots and environments using the [Blender-AMBF Addon](https://github.com/WPI-AIM/ambf_addon) (Hands-on).
-  3. Controlling robots and acquring scene data from the [surgical robotics challenge environment](https://github.com/collaborative-robotics/surgical_robotics_challenge) (Hands-on).
+  3. Controlling robots and acquiring scene data from the [surgical robotics challenge environment](https://github.com/collaborative-robotics/surgical_robotics_challenge) (Hands-on).
   4. Application: Interfacing AMBF with RBDL for creating dynamic controllers.
   5. QnA.
 
