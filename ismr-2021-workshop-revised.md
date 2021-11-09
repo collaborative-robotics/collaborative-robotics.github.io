@@ -57,13 +57,13 @@ The agenda for this session is as follows:
 | 10:30 | Surgical Simulators to Support Machine Learning| Greg Fischer (WPI) |
 | 10:50 | Data-Driven Error Correction for Soft-Tissue Simulations | Jie Ying Wu (JHU) |
 | 11:10 | Data-Driven Detection of Executional Errors in Robot-Assisted Surgery | Homa Alemzadeh (Univ. of Virginia) |
-| 11:30 | Data-Driven Online Learning and Manipulation of Unmodeled Deformable Tissues and Continuum Robots | Farshid Alambeigi (Univ. of Texas, Austin) |
+| 11:30 | TBD | |
 | 11:50 | Session wrapup/discussion
 | 12:00 | Lunch | | |
 | 13:30 | **Session 3** | |
 | 13:30 | Deep Learning for Calibration and Control in Robot-Assisted Surgery | Ken Goldberg, Daniel Seita, Minho Hwang or Brijen Thananjeyan (Univ. of California, Berkeley) |
 | 13:50 | Segmentation and Tracking of Endoscopic and Microscopic Surgical Instruments | Niveditha Kalavakonda (Univ. of Washington) |
-| 14:10 | TBD
+| 14:10 | Data-Driven Online Learning and Manipulation of Unmodeled Deformable Tissues and Continuum Robots | Farshid Alambeigi (Univ. of Texas, Austin) |
 | 14:30 | Machine Learning for Compliant Mechanism Calibration | Blake Hannaford (UW) |
 | 14:50 | Session wrapup/discussion
 | 15:00 | Coffee Break | |
