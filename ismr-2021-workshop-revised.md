@@ -50,7 +50,7 @@ The agenda for this session is as follows:
 | 08:40 | **Session 1** | |
 | 08:40 | Infrastructure for Machine Learning in Minimally-Invasive Robotic Surgery | Peter Kazanzides (JHU) |
 | 09:00 | Collaborative Robotics Toolkit (CRTK): Open Software Framework for Surgical Robotics Research | Melody Su (UW) |
-| 09:20 | Real-to-Sim Transfer Learning for Soft Tissue Manipulation | Michael Yip (UCSD) |
+| 09:20 | Autonomous Robotic Suction for Hemostasis | Florian Richter, Michael Yip (UCSD) |
 | 09:40 | Cognitive Surgical Robots: Theoretical Background and Initial Experiments | Paolo Fiorini (Univ. of Verona) | 
 | 10:00 | Coffee Break | | |
 | 10:30 | **Session 2** | |
