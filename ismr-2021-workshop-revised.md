@@ -32,11 +32,6 @@ The agenda for this session is as follows:
   4. Application: Interfacing AMBF with RBDL for creating dynamic controllers.
   5. QnA.
 
-## Call for Abstracts/Posters
-
-We will solicit abstracts for poster presentation.
-Travel awards will be offered to selected students who have accepted posters.
-
 ## Organizers
 
 |Peter Kazanzides          | Blake Hannaford           | Gregory S. Fischer              |
