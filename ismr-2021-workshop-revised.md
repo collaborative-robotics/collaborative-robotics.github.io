@@ -50,22 +50,22 @@ The agenda for this session is as follows:
 | 08:40 | **Session 1** | |
 | 08:40 | Infrastructure for Machine Learning in Minimally-Invasive Robotic Surgery | Peter Kazanzides (JHU) |
 | 09:00 | Collaborative Robotics Toolkit (CRTK): Open Software Framework for Surgical Robotics Research | Melody Su (UW) |
-| 09:20 | Autonomous Robotic Suction for Hemostasis | Florian Richter, Michael Yip (UCSD) |
+| 09:20 | Autonomous Robotic Suction for Hemostasis | Florian Richter (UCSD) |
 | 09:40 | Cognitive Surgical Robots: Theoretical Background and Initial Experiments | Paolo Fiorini (Univ. of Verona) | 
 | 10:00 | Coffee Break | | |
 | 10:30 | **Session 2** | |
-| 10:30 | Surgical Simulators to Support Machine Learning| Greg Fischer (WPI) |
+| 10:30 | TBD | |
 | 10:50 | Data-Driven Error Correction for Soft-Tissue Simulations | Jie Ying Wu (JHU) |
-| 11:10 | Data-Driven Detection of Executional Errors in Robot-Assisted Surgery | Homa Alemzadeh (Univ. of Virginia) |
-| 11:30 | TBD | |
+| 11:10 | TBD | |
+| 11:30 | Data-Driven Detection of Executional Errors in Robot-Assisted Surgery | Homa Alemzadeh (Univ. of Virginia) |
 | 11:50 | Session wrapup/discussion
 | 12:00 | Lunch | | |
 | 13:30 | **Session 3** | |
 | 13:30 | Deep Learning for Calibration and Control in Robot-Assisted Surgery | Ken Goldberg, Daniel Seita, Minho Hwang or Brijen Thananjeyan (Univ. of California, Berkeley) |
 | 13:50 | Segmentation and Tracking of Endoscopic and Microscopic Surgical Instruments | Niveditha Kalavakonda (Univ. of Washington) |
 | 14:10 | Data-Driven Online Learning and Manipulation of Unmodeled Deformable Tissues and Continuum Robots | Farshid Alambeigi (Univ. of Texas, Austin) |
-| 14:30 | Machine Learning for Compliant Mechanism Calibration | Blake Hannaford (UW) |
-| 14:50 | Session wrapup/discussion
+| 14:30 | Surgical Simulators to Support Machine Learning | Farid Tavakkolmoghaddam, Greg Fischer (WPI) |
+| 14:50 | Preparation for Hands-On Session |
 | 15:00 | Coffee Break | |
 | 15:30 | **Session 4** | |
 | 15:30 | Simulation Hands-on Session / Tutorial | Adnan Munawar (JHU), Farid Tavakkolmoghaddam (WPI) |
