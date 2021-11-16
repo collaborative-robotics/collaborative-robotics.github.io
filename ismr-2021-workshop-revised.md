@@ -23,8 +23,15 @@ The objective of this workshop is to engage the international community interest
 Attendees will have the opportunity to test out the [AMBF simulator](https://github.com/WPI-AIM/ambf) during Session 4.
 Interested participants should set up their laptop prior to the workshop. There are two different ways to install AMBF on your machine:
 
-  1. **(Preferred)** Install Ubuntu 18.04 or 20.04 on your computer and install the relevant ROS [version](http://wiki.ros.org/ROS/Installation). Then install AMBF based on these [instructions](https://github.com/WPI-AIM/ambf/blob/ambf-2.0/README.md).
-  2. If you instead prefer to use MacOS or a Windows computer, and do not wish to create a bootable Ubuntu partition, you can use the AMBF [docker](https://github.com/collaborative-robotics/docker-ambf) image and install it according to these [instructions](https://github.com/collaborative-robotics/docker-ambf). The performance of AMBF would be limited in this case.
+  1. Install Ubuntu, ROS and AMBF:
+   * a. **(Preferred)** Install Ubuntu 18.04 or 20.04 on your computer and install the relevant ROS [version](http://wiki.ros.org/ROS/Installation). Then install AMBF based on these [instructions](https://github.com/WPI-AIM/ambf/blob/ambf-2.0/README.md).
+   * b. If you instead prefer to use MacOS or a Windows computer, and do not wish to create a bootable Ubuntu partition, you can use the AMBF [docker](https://github.com/collaborative-robotics/docker-ambf) image and install it according to these [instructions](https://github.com/collaborative-robotics/docker-ambf). The performance of AMBF would be limited in this case.
+  
+  2. Download (and install) Blender 2.93 (https://www.blender.org/download/) on the Linux OS from the previous step. Then clone the [blender ambf_addon](https://github.com/WPI-AIM/ambf_addon). Follow the instructions on the [Readme](https://github.com/WPI-AIM/ambf_addon/blob/blender-2.9x/README.md) to set it up with Blender.
+  
+  3. Clone the [surgical_robotics_challenge](https://github.com/collaborative-robotics/surgical_robotics_challenge) repo on the Linux OS from the first step.
+
+
 
 The agenda for this session is as follows:
 
