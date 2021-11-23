@@ -7,9 +7,15 @@ layout: default
 ### Task
 
 Move large needle driver to grasp the needle and then move the needle tip to the target
-and drive the needle through the tissue until the tip exits. The accuracy of the simulated robot
+and drive the needle through the tissue until the tip exits.
+The accuracy of the simulated robot
 will be comparable to that of a real robot and thus visual feedback would be required to ensure
 accurate performance.
+
+The needle should be grasped near its base (i.e., back third of needle) with the gripper orthogonal to
+the plane of the needle. However, the evaluation metrics
+do not consider the needle grasp pose, so any pose that produces successful results
+is acceptable.
 
 <video width="960" height="540" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge/task2_clip.mp4">
@@ -20,7 +26,6 @@ Your browser does not support the video tag.
 
 1. Ground-truth pose of needle
 2. Ground-truth position of first target entry and exit on phantom
-3. Target pose for grasping needle (i.e., relative pose between PSM gripper and needle)
 
 ### Test Conditions
 
