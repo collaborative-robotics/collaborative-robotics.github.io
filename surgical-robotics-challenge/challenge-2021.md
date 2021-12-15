@@ -13,6 +13,10 @@ contains two seven degrees-of-freedom (DOF) instrument arms based on the da Vinc
 large needle driver, a controllable camera based on the da Vinci Endoscopic Camera Manipulator
 (ECM), a suturing phantom, and a needle with suture.
 
+## News
+
+12/14/2021: Announcing the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions) for questions and comments. See the [Community page](./community.md) for more information.
+
 ## Timeline
 
 **September 15, 2021:**  Challenge opens
@@ -108,7 +112,9 @@ the entry and exit for each pair of points.
 
 ### Contact
 
-Email: [accelnet-robotics-challenge-admin@googlegroups.com](mailto:accelnet-robotics-challenge-admin@googlegroups.com)
+Please use the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions) for questions and comments. See the [Community page](./community.md) for more information.
+
+To contact the organizers by email: [accelnet-robotics-challenge-admin@googlegroups.com](mailto:accelnet-robotics-challenge-admin@googlegroups.com)
 
 ### Acknowledgments
 
