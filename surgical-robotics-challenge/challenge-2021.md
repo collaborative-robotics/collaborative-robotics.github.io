@@ -21,7 +21,7 @@ large needle driver, a controllable camera based on the da Vinci Endoscopic Came
 
 **September 15, 2021:**  Challenge opens
 
-**February 1, 2022:**  Challenge closes (all Docker containers must be submitted)
+~~**February 1, 2022:**~~  Challenge closes (all Docker containers must be submitted)
 
 **March 1, 2022:**  Challenge results announced
 
