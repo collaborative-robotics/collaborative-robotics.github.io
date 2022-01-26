@@ -32,6 +32,10 @@ large needle driver, a controllable camera based on the da Vinci Endoscopic Came
 Please register as soon as possible if you wish to submit an entry to the challenge. This will allow us
 to better plan for the evaluation phase. It will also enable us to inform you about any important updates.
 
+There are no restrictions on who can participate in this challenge. We expect most participants to be part of a team,
+so it is only necessary for one person to register the team. If you wish, you can add the names of other participants in
+the "Additional comments" box.
+
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdvMuCxsjfvFgs0coQdIU9OBRH2Al7OsUDGsmN_WbY1AL090Q/viewform?usp=sf_link)
 
 ## Awards
