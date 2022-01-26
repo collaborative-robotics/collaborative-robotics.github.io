@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Challenge 1: Finding the needle
+## Challenge 1: Find the needle
 
 ### Task
 

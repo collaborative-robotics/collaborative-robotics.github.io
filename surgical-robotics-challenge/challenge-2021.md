@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2021 AccelNet Surgical Robotics Challenge (online)
+# 2021-2022 AccelNet Surgical Robotics Challenge (online)
 
 Automating surgical subtasks is an oft-mentioned research target for robot-assisted surgery. Certain
 subtasks, such as suturing and resection, have been automated on test bench setups. Yet current
@@ -17,13 +17,22 @@ large needle driver, a controllable camera based on the da Vinci Endoscopic Came
 
 12/14/2021: Announcing the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions) for questions and comments. See the [Community page](./community.md) for more information.
 
+<p style="color:red">01/26/2022: Deadline extended from Feb 1, 2022 to May 1, 2022 and added registration form (see below). One motivation is to enable student projects organized around the challenge for the Spring 2022 semester.</p>
+
 ## Timeline
 
 **September 15, 2021:**  Challenge opens
 
-**~~February 1, 2022:~~**  Challenge closes (all Docker containers must be submitted)
+**May 1, 2022:**  Challenge closes (all Docker containers must be submitted)
 
-**~~March 1, 2022:~~**  Challenge results announced
+**May 21, 2022:**  Challenge results announced
+
+## Registration
+
+Please register as soon as possible if you wish to submit an entry to the challenge. This will allow us
+to better plan for the evaluation phase. It will also enable us to inform you about any important updates.
+
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdvMuCxsjfvFgs0coQdIU9OBRH2Al7OsUDGsmN_WbY1AL090Q/viewform?usp=sf_link)
 
 ## Awards
 
@@ -58,7 +67,7 @@ conditions are provided in the detailed pages for each challenge.
 
 <hr>
 
-### [Challenge 1: Finding the needle](./challenge-1.md)
+### [Challenge 1: Find the needle](./challenge-1.md)
 
 <div style="float:right; margin-left:25px">
 <video width="480" height="270" autoplay muted loop>
