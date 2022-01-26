@@ -17,7 +17,7 @@ large needle driver, a controllable camera based on the da Vinci Endoscopic Came
 
 12/14/2021: Announcing the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions) for questions and comments. See the [Community page](./community.md) for more information.
 
-<p style="color:red">01/26/2022: Deadline extended from Feb 1, 2022 to May 1, 2022 and added registration form (see below). One motivation is to enable student projects organized around the challenge for the Spring 2022 semester.</p>
+01/26/2022: Deadline extended from Feb 1, 2022 to May 1, 2022 and added registration form (see below). One motivation is to enable student projects organized around the challenge for the Spring 2022 semester.
 
 ## Timeline
 
