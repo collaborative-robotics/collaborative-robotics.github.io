@@ -11,7 +11,7 @@ The implementations focus on common shared research platforms, such as the
 [da Vinci Research Kit (dVRK)](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki)
 and [Raven II](https://github.com/uw-biorobotics/raven2),
 and other devices commonly used by researchers. The provided implementation uses
-[Robot Operating System (ROS)](www.ros.org), but could be extended to other middleware.
+[Robot Operating System (ROS)](https://www.ros.org), but could be extended to other middleware.
 
 We also support networking events for researchers in the medical robotics domain.
 This includes _AccelNet_ events for researchers interested in the use of artificial intelligence
