@@ -2,12 +2,21 @@
 layout: default
 ---
 
-The _collaborative-robotics_ organization was created to develop a Common API for research in
-teleoperated and collaborative robotics. We are developing an abstract definition of this API,
+The _collaborative-robotics_ organization was originally created to develop a Common API for research in
+teleoperated and collaborative robotics, with an initial focus in the domain of medical robotics.
+
+We are developing an abstract definition of this API,
 with concrete implementations in the _Collaborative Robotics Toolkit (CRTK)_.
-The implementations focus on common shared research platforms, such as the da Vinci Research Kit (dVRK)
-and Raven II, and other devices commonly used by researchers. The provided implementation uses
+The implementations focus on common shared research platforms, such as the
+[da Vinci Research Kit (dVRK)](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki)
+and [Raven II](https://github.com/uw-biorobotics/raven2),
+and other devices commonly used by researchers. The provided implementation uses
 [Robot Operating System (ROS)](www.ros.org), but could be extended to other middleware.
+
+We also support networking events for researchers in the medical robotics domain.
+This includes _AccelNet_ events for researchers interested in the use of artificial intelligence
+to improve robotic surgery through enhanced perception, intelligent assistance and autonomy.
+
 
 # Links
 
