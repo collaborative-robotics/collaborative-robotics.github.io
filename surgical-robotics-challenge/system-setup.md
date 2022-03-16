@@ -21,3 +21,28 @@ Competitors can choose the most convenient configuration from one of the two pro
 Challenge competitors should update the Dockerfile to install their files and submit it
 for judging via a link to be provided.
 
+## System Architecture
+
+There are two supported system architectures, as illustrated below.
+In both cases, user code obtains scene images from AMBF via ROS messages. Note that
+only the endoscope stereo video (`sensor_msgs/Image`) will be provided during the
+evaluation, but you are free to use the depth data (`sensor_msgs/PointCloud2`)
+during development, for example, to provide ground truth data for training neural networks.
+
+The difference between the two architectures below is how your user code interfaces to
+the Surgical Challenge Assets (and ultimately AMBF), which can be via ROS (Option 1, recommended)
+or via Python (Option 2).
+
+**Important:** Users should not rely on the implementation details of the AMBF Python Client
+or the provided scripts, even though in Option 2, they will be located in the same Docker
+container as the User Code. During the evaluation phase, these scripts will be replaced by
+new versions. The reason for doing this is to prevent tactics such as writing software that
+obtains the simulated robot kinematic error from the code.
+
+### Option 1: ROS interface to Challenge Assets (recommended)
+
+![ROS Interface](./system-ros.svg)
+
+### Option 2: Python interface to Challenge Assets
+
+![Python Interface](./system-python.svg)
