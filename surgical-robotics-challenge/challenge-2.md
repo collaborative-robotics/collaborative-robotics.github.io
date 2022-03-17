@@ -25,7 +25,13 @@ Your browser does not support the video tag.
 ### Provided Data
 
 1. Ground-truth pose of needle
-2. Ground-truth position of first target entry and exit on phantom
+2. Ground-truth poses of first target entry and exit on phantom
+
+Note that the entry and exit points are specified as poses (transforms). See
+[here](/surgical_robotics_challenge/blob/master/docs/scene_coordinate_frames.md#entry--exit-frames)
+for an illustrative figure. These coordinate frames will always be defined so that the XZ planes
+are aligned. The expectation is that the needle trajectory will primarily be a rotation about
+the Y axis (i.e., in the XZ plane), though the evaluation metric does not require this.
 
 ### Test Conditions
 

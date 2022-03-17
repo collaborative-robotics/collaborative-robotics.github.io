@@ -19,16 +19,15 @@ Your browser does not support the video tag.
 
 ### Provided Data
 
-1. The positions of all entry and exit points on the phantom
-2. Additional points to define the desired circular path between each entry and exit point
-3. The starting pose between the needle and the (right) instrument
+1. The poses of all entry and exit points on the phantom (see [Challenge 2](./challenge-2.md) for more information)
+2. The starting pose between the needle and the (right) instrument
 
 ### Test Conditions
 
-Test conditions will be the same as specified for Challenge 2, except that the
+Test conditions will be the same as specified for [Challenge 2](./challenge-2.md), except that the
 challenge will begin with the right instrument holding the needle in a correct grasp.
 
 ### Evaluation Metric
 
-The evaluation metric will be the same as Challenge 2; specifically, all
+The evaluation metric will be the same as [Challenge 2](./challenge-2.md); specifically, all
 entries that meet the specified accuracy thresholds will be ranked based on completion time.

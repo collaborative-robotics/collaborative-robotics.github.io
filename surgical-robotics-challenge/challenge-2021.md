@@ -19,6 +19,9 @@ large needle driver, a controllable camera based on the da Vinci Endoscopic Came
 
 01/26/2022: Deadline extended from Feb 1, 2022 to May 1, 2022 and added registration form (see below). One motivation is to enable student projects organized around the challenge for the Spring 2022 semester.
 
+03/16/2022: Additional details in [System Setup](./system-setup.md); clarification about target entry and exit points for
+[Challenge 2](./challenge-2.md) and [Challenge 3](./challenge-3.md); cash prize total is $3000.
+
 ## Timeline
 
 **September 15, 2021:**  Challenge opens
@@ -42,14 +45,16 @@ the "Additional comments" box.
 
 Awards will be given for the winning entries in each challenge. The awards will consist of
 cash prizes and travel grants to a future (in-person) AccelNet Surgical Robotics Challenge.
-Details to be announced.
 
-## System Setup
+The cash prize total is $3000, to be distributed between the winning entries for each challenge.
+
+
+## [System Setup](./system-setup.md)
 
 The challenge is based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf)
 simulator. Participants will be required to install AMBF on a Linux system and download a Docker
 container. Algorithms must be implemented within a Docker container and submitted for testing.
-Additional details are provided [here](./system-setup.md).
+Additional details are provided [**here**](./system-setup.md).
 
 
 ## Challenge Tasks
