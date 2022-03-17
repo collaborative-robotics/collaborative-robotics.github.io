@@ -13,6 +13,12 @@ contains two seven degrees-of-freedom (DOF) instrument arms based on the da Vinc
 large needle driver, a controllable camera based on the da Vinci Endoscopic Camera Manipulator
 (ECM), a suturing phantom, and a needle with suture.
 
+The philosophy of this challenge is to provide competitors with the tools to generate any required data
+(e.g., for training neural networks), rather than providing common datasets. We encourage contributions
+back to the repository, which can be made during or after the challenge.
+For example, one useful contribution would be a script file that facilitates the
+collection of ground-truth data for training a neural network.
+
 ## News
 
 12/14/2021: Announcing the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions) for questions and comments. See the [Community page](./community.md) for more information.

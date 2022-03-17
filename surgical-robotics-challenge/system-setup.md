@@ -33,7 +33,7 @@ The difference between the two architectures below is how your user code interfa
 the Surgical Challenge Assets (and ultimately AMBF), which can be via ROS (Option 1, recommended)
 or via Python (Option 2).
 
-**Important:** Users should not rely on the implementation details of the AMBF Python Client
+**Important:** Competitors should not rely on the implementation details of the AMBF Python Client
 or the provided scripts, even though in Option 2, they will be located in the same Docker
 container as the User Code. During the evaluation phase, these scripts will be replaced by
 new versions. The reason for doing this is to prevent tactics such as writing software that
