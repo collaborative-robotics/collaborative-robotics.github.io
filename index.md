@@ -36,6 +36,7 @@ to improve robotic surgery through enhanced perception, intelligent assistance a
 * [CRTK 2021 Research Symposium](./crtk-2021-research-symposium.md)
   * [Session 1: March 11, 2021](./symposium-session-1/crtk-2021-symposium-session-1.md)
   * [Session 2: July 19, 2021 (*Hamlyn Edition*)](./symposium-session-2/crtk-2021-symposium-session-2.md)
+  * [Session 3: TBD 2022](./symposium-session-3/crtk-symposium-session-3.md)
 * [AccelNet Surgical Robotics Challenge, 2021](./surgical-robotics-challenge/challenge-2021.md)
 
 # Support

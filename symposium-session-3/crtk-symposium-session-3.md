@@ -13,6 +13,7 @@ layout: default
 **Summary:**
 
 This is the third session of an ongoing [research symposium series](../crtk-2021-research-symposium.md).
+See the **Call for Contributions** at the above link.
 
 **Agenda:**
 
