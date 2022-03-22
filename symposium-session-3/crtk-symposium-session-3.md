@@ -21,4 +21,4 @@ TBD
 
 **Best Presentation Award:**
 
-TBD
+Intuitive Surgical is sponsoring a $500 award for the best presentation.

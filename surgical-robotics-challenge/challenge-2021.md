@@ -52,7 +52,7 @@ the "Additional comments" box.
 Awards will be given for the winning entries in each challenge. The awards will consist of
 cash prizes and travel grants to a future (in-person) AccelNet Surgical Robotics Challenge.
 
-The cash prize total is $3000, to be distributed between the winning entries for each challenge.
+Intuitive Surgical is sponsoring a cash prize total of $3000, to be distributed between the winning entries for each challenge.
 
 
 ## [System Setup](./system-setup.md)
