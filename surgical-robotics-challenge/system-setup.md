@@ -30,8 +30,10 @@ evaluation, but you are free to use the depth data (`sensor_msgs/PointCloud2`)
 during development, for example, to provide ground truth data for training neural networks.
 
 The difference between the two architectures below is how your user code interfaces to
-the Surgical Challenge Assets (and ultimately AMBF), which can be via ROS (Option 1, recommended)
-or via Python (Option 2).
+the Surgical Robotics Challenge Assets (and ultimately AMBF), which can be via ROS (Option 1, recommended)
+or via Python (Option 2). Note that there are two example script files (one for each option)
+in the Challenge Assets, as indicated below. You can copy these script files to your
+own workspace and rename/modify them as needed.
 
 **Important:** Competitors should not rely on the implementation details of the AMBF Python Client
 or the provided scripts, even though in Option 2, they will be located in the same Docker
@@ -41,8 +43,12 @@ obtains the simulated robot kinematic error from the code.
 
 ### Option 1: ROS interface to Challenge Assets (recommended)
 
+See [interface_via_crtk_ros_api.py](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_crtk_ros_api.py) example interface script.
+
 ![ROS Interface](./system-ros.svg)
 
 ### Option 2: Python interface to Challenge Assets
+
+See [interface_via_method_api.py](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_method_api.py) example interface script.
 
 ![Python Interface](./system-python.svg)
