@@ -31,3 +31,4 @@ challenge will begin with the right instrument holding the needle in a correct g
 
 The evaluation metric will be the same as [Challenge 2](./challenge-2.md); specifically, all
 entries that meet the specified accuracy thresholds will be ranked based on completion time.
+Time will be measured from when the user script is started until the task completion message is received.

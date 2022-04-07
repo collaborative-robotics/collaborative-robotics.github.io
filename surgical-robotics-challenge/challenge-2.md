@@ -24,7 +24,7 @@ Your browser does not support the video tag.
 
 ### Provided Data
 
-1. Ground-truth pose of needle
+1. Initial ground-truth pose of needle
 2. Ground-truth poses of first target entry and exit on phantom
 
 Note that the entry and exit points are specified as poses (transforms). See this
@@ -50,9 +50,12 @@ Stereo endoscope video will be provided at 1080p resolution at 30 fps.
 Entries will be judged based on the time the algorithm required to perform
 the task and the achieved accuracy. Accuracy will be measured by the distance between the needle
 trajectory and the target entry and exit positions, and the amount of needle that is visible
-beyond the exit point. All entries must be within +/-2.5 mm of the target entry/exit and at
+beyond the exit point at the end of the task. User scripts should publish the specified ROS topic or call
+the specified Python method to indicate task completion.
+All entries must be within +/-2.5 mm of the target entry/exit and at
 least 5 mm of the needle tip must be visible. Note that the squares surrounding the entry/exit points have dimensions
 5 mm x 5 mm (0.05 x 0.05 simulation units, see figure below), so the needle must pass within these squares.
 All entries that pass the accuracy threshold will be ranked based on completion time.
+Time will be measured from when the user script is started until the task completion message is received.
 
 ![Entry and Exit Holes](./entry-and-exit-holes.svg)

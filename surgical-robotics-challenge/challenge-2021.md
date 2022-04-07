@@ -28,6 +28,8 @@ collection of ground-truth data for training a neural network.
 03/16/2022: Additional details in [System Setup](./system-setup.md); clarification about target entry and exit points for
 [Challenge 2](./challenge-2.md) and [Challenge 3](./challenge-3.md); cash prize total is $3000.
 
+04/06/2022: Added example script files (see [System Setup](./system-setup.md)); updated scripts in Surgical Robotics Challenge Assets to use new CRTK convention for `measured_cp` (`geometry_msgs/PoseStamped` instead of `geometry_msgs/TransformStamped`); added information about simulation units (1 mm = 0.01 SU, 1 SU = 100 mm = 0.1 m) -- see new figure in [Challenge 2](./challenge-2.md).
+
 ## Timeline
 
 **September 15, 2021:**  Challenge opens
