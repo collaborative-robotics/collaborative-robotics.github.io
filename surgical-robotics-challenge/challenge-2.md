@@ -36,11 +36,14 @@ the Y axis (i.e., in the XZ plane), though the evaluation metric does not requir
 ### Test Conditions
 
 Each entry will be tested with multiple trials, where the needle position and
-target positions will vary for each trial. In addition, the kinematic parameters of the robot will
+target positions will vary for each trial. In addition, some kinematic parameters of the robot will
 vary from the nominal values to emulate robot inaccuracy. Specifically, the simulator will use the
 nominal kinematic parameters for inverse kinematics (e.g., to convert Cartesian goals into joint
 goals), but then will use the perturbed kinematic parameters in the forward kinematics to compute
-the Cartesian trajectory of the simulated robot. For some trials, the kinematic parameters will
+the Cartesian trajectory of the simulated robot. The kinematic parameters that can vary are the
+offsets for the first two joint angles (up to &plusmn;5 degrees) and the third joint translation
+(up to &plusmn;5 mm).
+For some trials, the kinematic parameters will
 have little or no error, thereby allowing the task to be completed without visual feedback,
 whereas for other trials, visual feedback will be necessary to successfully complete the task.
 Stereo endoscope video will be provided at 1080p resolution at 30 fps.

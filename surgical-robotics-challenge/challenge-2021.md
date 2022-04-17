@@ -30,6 +30,10 @@ collection of ground-truth data for training a neural network.
 
 04/06/2022: Added example script files (see [System Setup](./system-setup.md)); updated scripts in Surgical Robotics Challenge Assets to use new CRTK convention for `measured_cp` (`geometry_msgs/PoseStamped` instead of `geometry_msgs/TransformStamped`); added information about simulation units (1 mm = 0.01 SU, 1 SU = 100 mm = 0.1 m) -- see new figure in [Challenge 2](./challenge-2.md).
 
+04/16/2022: Updated example script files ([interface_via_crtk_ros_api.py](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_crtk_ros_api.py) and
+[interface_via_method_api.py](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_method_api.py))
+to demonstrate reporting of Challenge Task completion, and to call method that initializes needle in grasper for Challenge Task 3 (`task_3_setup_init`). Also, added information about robot kinematic error in [Challenge 2](./challenge-2.md).
+
 ## Timeline
 
 **September 15, 2021:**  Challenge opens
