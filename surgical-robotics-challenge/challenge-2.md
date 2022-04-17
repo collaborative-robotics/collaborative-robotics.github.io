@@ -55,7 +55,7 @@ the task and the achieved accuracy. Accuracy will be measured by the distance be
 trajectory and the target entry and exit positions, and the amount of needle that is visible
 beyond the exit point at the end of the task. User scripts should publish the specified ROS topic or call
 the specified Python method to indicate task completion.
-All entries must be within +/-2.5 mm of the target entry/exit and at
+All entries must be within &plusmn;2.5 mm of the target entry/exit and at
 least 5 mm of the needle tip must be visible. Note that the squares surrounding the entry/exit points have dimensions
 5 mm x 5 mm (0.05 x 0.05 simulation units, see figure below), so the needle must pass within these squares.
 All entries that pass the accuracy threshold will be ranked based on completion time.

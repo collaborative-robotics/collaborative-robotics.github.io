@@ -25,7 +25,9 @@ Your browser does not support the video tag.
 ### Test Conditions
 
 Test conditions will be the same as specified for [Challenge 2](./challenge-2.md), except that the
-challenge will begin with the right instrument holding the needle in a correct grasp.
+challenge will begin with the right instrument holding the needle in a correct grasp. Note that
+it is necessary to call the `task_3_setup_init` method or publish the `task_3_setup/init` ROS topic
+to place the needle in the right instrument.
 
 ### Evaluation Metric
 

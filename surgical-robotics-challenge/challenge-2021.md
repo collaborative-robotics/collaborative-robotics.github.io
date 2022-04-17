@@ -32,7 +32,9 @@ collection of ground-truth data for training a neural network.
 
 04/16/2022: Updated example script files ([interface_via_crtk_ros_api.py](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_crtk_ros_api.py) and
 [interface_via_method_api.py](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_method_api.py))
-to demonstrate reporting of Challenge Task completion, and to call method that initializes needle in grasper for Challenge Task 3 (`task_3_setup_init`). Also, added information about robot kinematic error in [Challenge 2](./challenge-2.md).
+to demonstrate reporting of Challenge Task completion, and to call method (`task_3_setup_init`)
+or publish ROS topic (`task_3_setup/init`) that initializes needle in grasper for [Challenge 3](./challenge-3.md).
+Also, added information about robot kinematic error in [Challenge 2](./challenge-2.md).
 
 ## Timeline
 
