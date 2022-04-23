@@ -42,9 +42,9 @@ Also, added information about robot kinematic error in [Challenge 2](./challenge
 
 **September 15, 2021:**  Challenge opens
 
-**<p style="color:red">June 6, 2022:</p>**  Challenge closes (all Docker containers must be submitted)
+**June 6, 2022:**  Challenge closes (all Docker containers must be submitted)
 
-**<p style="color:red">June 24, 2022:</p>**  Challenge results announced
+**June 24, 2022:**  Challenge results announced
 
 ## Registration
 
