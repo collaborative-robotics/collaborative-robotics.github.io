@@ -36,13 +36,15 @@ to demonstrate reporting of Challenge Task completion, and to call method (`task
 or publish ROS topic (`task_3_setup/init`) that initializes needle in grasper for [Challenge 3](./challenge-3.md).
 Also, added information about robot kinematic error in [Challenge 2](./challenge-2.md).
 
+<p style="color:red">04/23/2022: Deadline extended from May 1 to June 6 to avoid conflicts with final exams, ICRA and the US Memorial Day holiday. This is the final deadline extension.</p>
+
 ## Timeline
 
 **September 15, 2021:**  Challenge opens
 
-**May 1, 2022:**  Challenge closes (all Docker containers must be submitted)
+**<p style="color:red">June 6, 2022:</p>**  Challenge closes (all Docker containers must be submitted)
 
-**May 21, 2022:**  Challenge results announced
+**<p style="color:red">June 24, 2022:</p>**  Challenge results announced
 
 ## Registration
 
