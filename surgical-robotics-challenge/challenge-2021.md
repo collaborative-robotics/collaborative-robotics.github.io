@@ -36,7 +36,9 @@ to demonstrate reporting of Challenge Task completion, and to call method (`task
 or publish ROS topic (`task_3_setup/init`) that initializes needle in grasper for [Challenge 3](./challenge-3.md).
 Also, added information about robot kinematic error in [Challenge 2](./challenge-2.md).
 
-<p style="color:red">04/23/2022: Deadline extended from May 1 to June 6 to avoid conflicts with final exams, ICRA and the US Memorial Day holiday. This is the final deadline extension.</p>
+04/23/2022: Deadline extended from May 1 to June 6 to avoid conflicts with final exams, ICRA and the US Memorial Day holiday. This is the final deadline extension.
+
+04/26/2022: Changed time limit for Challenge 1 from 10 seconds to 60 seconds.
 
 ## Timeline
 

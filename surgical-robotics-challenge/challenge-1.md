@@ -33,7 +33,8 @@ Stereo endoscope video will be provided at 1080p resolution at 30 fps.
 
 Entries will be evaluated on the time to find the pose estimate and the
 difference between the estimated pose and the ground truth. All algorithms must output a needle
-pose within 10 seconds, by either publishing the pose on the specified ROS topic or calling the specified Python method.
+pose (with respect to the ECM pose) within 60 seconds, by either publishing the pose on the
+specified ROS topic or calling the specified Python method.
 The pose difference will be determined by the distance between three fixed
 points on the needle: tip, middle and end. All entries that meet the time requirement will be
 ranked by the sum of the three distance errors.
@@ -43,5 +44,6 @@ Time will be measured from when the user script is started until the estimated n
 
 Algorithms may move the camera to better identify the needle pose. Note, however,
 that the simulator will add a realistic amount of error to the measurement of camera pose. Also,
-moving the camera will increase the time required to find the needle and will count toward the 10
-second time limit.
+moving the camera will increase the time required to find the needle and will count toward the 60
+second time limit. The reported needle pose should be with respect to the ECM pose when the report
+is published (ROS) or called (Python).
