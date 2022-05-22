@@ -40,6 +40,14 @@ points on the needle: tip, middle and end. All entries that meet the time requir
 ranked by the sum of the three distance errors.
 Time will be measured from when the user script is started until the estimated needle pose is received.
 
+The [evaluation script](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/evaluation/evaluation.py) for this challenge is in the GitHub repository and can be run as follows (use `python` or `python3` as appropriate):
+
+```
+python evaluation.py -t <team_name> -e 1
+```
+
+See also the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions/50).
+
 ### Variations
 
 Algorithms may move the camera to better identify the needle pose. Note, however,

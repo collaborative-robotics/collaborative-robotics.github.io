@@ -61,4 +61,12 @@ least 5 mm of the needle tip must be visible. Note that the squares surrounding 
 All entries that pass the accuracy threshold will be ranked based on completion time.
 Time will be measured from when the user script is started until the task completion message is received.
 
+The [evaluation script](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/evaluation/evaluation.py) for this challenge is in the GitHub repository and can be run as follows (use `python` or `python3` as appropriate):
+
+```
+python evaluation.py -t <team_name> -e 2
+```
+
+See also the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions/50).
+
 ![Entry and Exit Holes](./entry-and-exit-holes.svg)
