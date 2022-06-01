@@ -73,9 +73,14 @@ Intuitive Surgical is sponsoring a cash prize total of $3000, to be distributed 
 
 The challenge is based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf)
 simulator. Participants will be required to install AMBF on a Linux system and download a Docker
-container. Algorithms must be implemented within a Docker container and submitted for testing.
+container. Algorithms should be implemented within a Docker container and submitted for testing.
 Additional details are provided [**here**](./system-setup.md).
 
+## [Submission Instructions](./submission.md)
+
+Submissions to the challenge should use this [**form**](https://forms.gle/EECUaqJ2YReGbJte9).
+The challenge tasks are difficult enough, so our goal is to make the submission process
+as easy and as flexible as possible. See [**this page**](./submission.md) for additional details.
 
 ## Challenge Tasks
 
