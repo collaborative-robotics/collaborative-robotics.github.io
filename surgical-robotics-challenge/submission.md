@@ -16,7 +16,7 @@ There are, however, multiple ways to do this, as described below.
 ### Submitting a Dockerfile
 
 A Dockerfile is a text file that describes how to build a Docker container. We provided initial Dockerfiles for
-Ubuntu 18.04 + ROS Melodic and for Ubuntu 20.02 + ROS Noetic. You can submit an updated Dockerfile that installs
+Ubuntu 18.04 + ROS Melodic and for Ubuntu 20.04 + ROS Noetic. You can submit an updated Dockerfile that installs
 your dependencies and fetches your software. This approach should be easy if your dependencies are easily installed
 (e.g., using `apt-get`) and your code only needs to be fetched from a GitHub repository (e.g., if it is Python and
 does not need to be compiled).
