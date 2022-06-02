@@ -42,6 +42,8 @@ Also, added information about robot kinematic error in [Challenge 2](./challenge
 
 05/20/2022: Added [evaluation script](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/evaluation/evaluation.py) to GitHub repository. This script will be used to evaluate entries submitted to each of the 3 challenges and is provided so that competitors can better test their algorithms prior to submission. Note that this is a beta version of the script and may be updated. See the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions/50) for more information.
 
+06/01/2022: Added submission instructions, summarized below, with details [here](./submission.md).
+
 ## Timeline
 
 **September 15, 2021:**  Challenge opens
