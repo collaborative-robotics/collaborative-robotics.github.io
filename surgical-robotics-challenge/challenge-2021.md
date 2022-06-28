@@ -50,7 +50,7 @@ Also, added information about robot kinematic error in [Challenge 2](./challenge
 
 **June 6, 2022:**  Challenge closes (all Docker containers must be submitted)
 
-**June 24, 2022:**  Challenge results announced
+**June 30, 2022:**  Challenge results announced
 
 ## Registration
 
