@@ -44,6 +44,8 @@ Also, added information about robot kinematic error in [Challenge 2](./challenge
 
 06/01/2022: Added submission instructions, summarized below, with details [here](./submission.md).
 
+06/30/2022: Winners announced -- see below.
+
 ## Timeline
 
 **September 15, 2021:**  Challenge opens
@@ -70,6 +72,16 @@ cash prizes and travel grants to a future (in-person) AccelNet Surgical Robotics
 
 Intuitive Surgical is sponsoring a cash prize total of $3000, to be distributed between the winning entries for each challenge.
 
+## Results
+
+We thank all competitors for participating in the challenge and we are pleased to announce the
+following results:
+
+* **First Place ($1,700)**: Team Tstone, Chinese University of Hong Kon
+* **Second Place ($800)**:  Team WPI Aim Lab, Worcester Polytechnic Institute
+* **Third Place ($500)**:   Team SDU, University of Southern Denmark
+
+Addition details are available [**here**](./results.md).
 
 ## [System Setup](./system-setup.md)
 
