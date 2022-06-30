@@ -77,11 +77,11 @@ Intuitive Surgical is sponsoring a cash prize total of $3000, to be distributed 
 We thank all competitors for participating in the challenge and we are pleased to announce the
 following results:
 
-* **First Place ($1,700)**: Team Tstone, Chinese University of Hong Kon
+* **First Place ($1,700)**: Team Tstone, Chinese University of Hong Kong
 * **Second Place ($800)**:  Team WPI Aim Lab, Worcester Polytechnic Institute
 * **Third Place ($500)**:   Team SDU, University of Southern Denmark
 
-Addition details are available [**here**](./results.md).
+Additional details are available [**here**](./results.md).
 
 ## [System Setup](./system-setup.md)
 
