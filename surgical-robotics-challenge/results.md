@@ -14,9 +14,9 @@ TBD
 The following three scenes were used in the evaluation:
 
 <p>
-<img src="/surgical-robotics-challenge/challenge-1-scene-a.png" alt="Scene A" style="width:280px">
-<img src="/surgical-robotics-challenge/challenge-1-scene-b.png" alt="Scene B" style="width:280px">
-<img src="/surgical-robotics-challenge/challenge-1-scene-c.png" alt="Scene C" style="width:280px">
+<img src="/surgical-robotics-challenge/challenge-1-scene-a.png" alt="Scene A" style="width:260px">
+<img src="/surgical-robotics-challenge/challenge-1-scene-b.png" alt="Scene B" style="width:260px">
+<img src="/surgical-robotics-challenge/challenge-1-scene-c.png" alt="Scene C" style="width:260px">
 </p>
 
 #### Challenges 2 and 3
