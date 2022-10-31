@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# 2023 AccelNet Surgical Robotics Challenge (online and in-person)
+# 2023 AccelNet Surgical Robotics Challenge
 
 This is a relaunch and update of the
-[2021-2022 AccelNet Surgical Robotics Challenge](./surgical-robotics-challenge/challenge-2021.md).
+[2021-2022 AccelNet Surgical Robotics Challenge](../surgical-robotics-challenge/challenge-2021.md).
 As with the prior challenge, the goal is to further advance research in the
 automation of surgical subtasks during robot-assisted surgery.
 The primary changes are:
