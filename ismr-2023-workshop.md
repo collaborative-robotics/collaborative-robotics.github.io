@@ -14,7 +14,7 @@ layout: default
 
 The objective of this workshop is to advance the application of machine learning in robotic surgery. The primary application domain is the telesurgical approach exemplified in operating rooms by the da Vinci surgical system and in research labs by the da Vinci Research Kit (dVRK) and Raven II open platforms. The AccelNet Surgical Robotics Challenge represents one step toward this objective, specifically focusing on autonomous suturing in minimally-invasive surgery. The first iteration of this challenge was implemented in the Asynchronous Multi-Body Framework (AMBF) dynamic simulation environment and the second challenge includes both simulated and real environments.
 
-The workshop will present the challenge infrastructure, including a hands-on session for the AMBF simulated environment, the [Medical Open Network for Artificial Intelligence (MONAI)](https://monai.io/) (including nVidia Clara Holoscan),  and the [da Vinci Research Kit (dVRK)](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki).
+The workshop will present the challenge infrastructure, including a hands-on session for the [AMBF simulator]((https://github.com/WPI-AIM/ambf), the [Medical Open Network for Artificial Intelligence (MONAI)](https://monai.io/) (including nVidia Clara Holoscan), and the [da Vinci Research Kit (dVRK)](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki).
 
 One goal is to build a worldwide collaboration focused on collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies, including NSF in the United States, ERC in the European Union and UGC in Hong Kong. The workshop will also provide a poster session for researchers to present their results in data-driven methods for scene perception, intelligent assistance, semi-autonomous teleoperation and surgical autonomy.
 
@@ -33,7 +33,7 @@ The following hardware will be available during the hands-on session:
 
 Interested participants should set up their laptop prior to the workshop.
 
-** NOTE: Do not follow these instructions yet. We will update by 3/31/23.***
+** NOTE: Do not follow these instructions yet. We will update by 3/31/23.**
 
 There are two different ways to install AMBF on your machine:
 
@@ -49,14 +49,9 @@ See below for the agenda for this session.
 
 ## Organizers
 
-| Peter Kazanzides          | Adnan Munawar             |
-|---------------------------|---------------------------|
-| Johns Hopkins University  | Johns Hopkins University  |
-
-| Gregory S. Fischer             | Jie Ying Wu           |
----------------------------------|-----------------------|
- Worcester Polytechnic Institute | Vanderbilt University |
-
+| Peter Kazanzides, Adnan Munawar    | Gregory S. Fischer              | Jie Ying Wu           |
+|------------------------------------|---------------------------------|-----------------------|
+| Johns Hopkins University           | Worcester Polytechnic Institute | Vanderbilt University |
 
 ## Tentative Program
 
