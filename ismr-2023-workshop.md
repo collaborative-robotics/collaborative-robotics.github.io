@@ -49,16 +49,14 @@ Attendees will have the opportunity to test out the [AMBF simulator](https://git
 [MONAI](https://monai.io/) and [dVRK](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki) during Session 2.
 The following hardware will be available during the hands-on session:
 
-  * nVidia Clara Holoscan AGX (Qty ?)
+  * AMBF server (Qty ?)
   * dVRK system
     * PSM-Si (Qty ?)
     * Endoscope
     * Suturing phantom
-  * AMBF server (Qty ?)
+  * nVidia Clara Holoscan AGX (Qty ?)
 
 Interested participants should set up their laptop prior to the workshop.
-
-**NOTE: Do not follow these instructions yet. We will update by 3/31/23.**
 
 There are two different ways to install AMBF on your machine:
 
