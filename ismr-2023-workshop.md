@@ -4,11 +4,11 @@ layout: default
 
 # [ISMR 2023](http://www.ismr.gatech.edu/) Workshop: Hands-On Machine Learning in Simulation and Reality with the da Vinci Research Kit
 
-**Workshop Date:**  April 19, 2023
+**Workshop Date:**  April 19, 2023, 8:30 AM - 12:00 PM (half-day)
 
 **Venue:** Georgia Institute of Technology, Atlanta, GA USA
 
-**Location:** TBD
+**Location:** Marcus 1116
 
 ## Objectives
 
@@ -26,7 +26,7 @@ One goal is to build a worldwide collaboration focused on collection and sharing
 
 ## Tentative Program
 
-Session 1:  Invited Talks (90 minutes)
+Session 1:  Invited Talks, 8:30 - 10:00 AM (90 minutes)
   * Peter Kazanzides:  The da Vinci Research Kit and AccelNet Surgical Robotics Challenge
   * Adnan Munawar:  AMBF and the AccelNet Surgical Robotics Challenge
   * TBD:  MONAI:  Open source AI platform for medical imaging and devices
@@ -34,7 +34,9 @@ Session 1:  Invited Talks (90 minutes)
   * Greg Fischer:  User studies, data collection, and learning from demonstration on the dVRK
   * Jie Ying Wu:  Machine learning with the dVRK
 
-Session 2:  Hands-On Session and Poster Session, in parallel (90 minutes)
+Coffee Break:  10:00 - 10:30 AM (30 minutes)
+
+Session 2:  Hands-On Session and Poster Session, 10:30 AM - 12:00 PM (90 minutes)
   * Tentative outline for hands-on session (see below for preparation):
     * Set up AMBF and MONAI segmentation network (hopefully in advance)
     * Evaluate performance of pre-trained network with AMBF simulator output
@@ -49,12 +51,13 @@ Attendees will have the opportunity to test out the [AMBF simulator](https://git
 [MONAI](https://monai.io/) and [dVRK](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki) during Session 2.
 The following hardware will be available during the hands-on session:
 
-  * AMBF server (Qty ?)
+  * AMBF server
   * dVRK system
-    * PSM-Si (Qty ?)
-    * Endoscope
+    * PSM
+    * PSM-Si
+    * Stereo Camera
     * Suturing phantom
-  * nVidia Clara Holoscan AGX (Qty ?)
+  * nVidia Clara Holoscan AGX
 
 Interested participants should set up their laptop prior to the workshop.
 
@@ -65,6 +68,8 @@ There are two different ways to install AMBF on your machine:
    * b. If you instead prefer to use MacOS or a Windows computer, and do not wish to create a bootable Ubuntu partition, you can use the AMBF [docker](https://github.com/collaborative-robotics/docker-ambf) image and install it according to these [instructions](https://github.com/collaborative-robotics/docker-ambf). The performance of AMBF would be limited in this case.
   
   2. Clone the [surgical_robotics_challenge](https://github.com/collaborative-robotics/surgical_robotics_challenge) repo on the Linux OS from the first step.
+
+  3. Install MONAI (instructions TBA)
 
 ## Resources
 
