@@ -18,17 +18,9 @@ The workshop will present the challenge infrastructure, including a hands-on ses
 
 The following videos summarize the hands-on session, where partipants will learn how to capture video in the AMBF simulation environment (left), with corresponding ground truth labels, train a neural network to segment the instrument, needle and suture, and then run this network on video obtained from the simulation environment (right) as well as the physical dVRK.
 
-<div style="float:left; margin-right:25px">
-<video width="480" height="270" autoplay muted loop>
-  <source type="video/gif" src="/images/InputVideo.gif">
-Your browser does not support the video tag.
-</video></div>
+![Input Video](./images/InputVideo.gif)
 
-<div style="float:right; margin-left:25px">
-<video width="480" height="270" autoplay muted loop>
-  <source type="video/gif" src="/images/OutputVideo.gif">
-Your browser does not support the video tag.
-</video></div>
+![Output Video](./images/OutputVideo.gif)
 
 One goal is to build a worldwide collaboration focused on collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies, including NSF in the United States, ERC in the European Union and UGC in Hong Kong. The workshop will also provide a poster session for researchers to present their results in data-driven methods for scene perception, intelligent assistance, semi-autonomous teleoperation and surgical autonomy.
 
