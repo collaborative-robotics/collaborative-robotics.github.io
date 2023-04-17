@@ -18,12 +18,12 @@ The workshop will present the challenge infrastructure, including a hands-on ses
 
 The following videos summarize the hands-on session, where partipants will learn how to capture video in the AMBF simulation environment (left), with corresponding ground truth labels, train a neural network to segment the instrument, needle and suture, and then run this network on video obtained from the simulation environment (right) as well as the physical dVRK.
 
-![Input Video](./images/InputVideo.gif)
+| Video input to Network | Video output (segmentations) from Network |
+|:----------------------:|:-----------------------------------------:|
+{<video src='./images/InputVideo.gif'  width=200/> |
+ <video src='./images/OutputVideo.gif' width=200/> |
 
-![Output Video](./images/OutputVideo.gif)
-
-One goal is to build a worldwide collaboration focused on collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies, including NSF in the United States, ERC in the European Union and UGC in Hong Kong. The workshop will also provide a poster session for researchers to present their results in data-driven methods for scene perception, intelligent assistance, semi-autonomous teleoperation and surgical autonomy.
-
+One goal is to build a worldwide collaboration focused on collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies, including NSF in the United States, ERC in the European Union and UGC in Hong Kong.
 
 ## Organizers
 
@@ -51,6 +51,10 @@ Session 2:  Hands-On Session and Poster Session, 10:30 AM - 12:00 PM (90 minutes
     * Evaluate performance of re-trained network with AMBF simulator output
     * Evaluate performance with dVRK images (sim-to-real)
     * If labeled dVRK images available, re-train network and re-evaluate
+
+## Poster Session
+
+The workshop will also provide a poster session for researchers to present their results in data-driven methods for scene perception, intelligent assistance, semi-autonomous teleoperation and surgical autonomy.
 
 ## Preparation for Hands-On Session
 
