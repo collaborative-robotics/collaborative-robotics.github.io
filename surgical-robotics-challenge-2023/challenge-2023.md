@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2023 AccelNet Surgical Robotics Challenge
+# 2023-2024 AccelNet Surgical Robotics Challenge
 
 This is a relaunch and update of the
 [2021-2022 AccelNet Surgical Robotics Challenge](../surgical-robotics-challenge/challenge-2021.md).
@@ -39,7 +39,7 @@ Stay tuned...
 
 **April 19, 2023:**  Presentation of challenge at [ISMR 2023 Workshop](https://collaborative-robotics.github.io/ismr-2023-workshop.html)
 
-**TBD** Online challenge closes
+**TBD:** Online challenge closes
 
 **Winter 2023-2024:** Physical challenge opens
 
