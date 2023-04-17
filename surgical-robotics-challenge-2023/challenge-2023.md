@@ -22,7 +22,12 @@ Note that the stereo camera has higher quality than the stereo endoscope provide
 the first-generation da Vinci surgical system.
 We also provide a simulation environment for each specified physical platform.
 The goal is to conduct the first part of the challenge in simulation, followed by a sim-to-real transfer
-on the physical platforms.
+on the physical platforms. The following video provides a "teaser" of the updated simulation environment.
+
+<video width="640" height="360" autoplay muted loop>
+  <source type="video/mp4" src="/surgical-robotics-challenge-2023/Suturing-AMBF.mp4">
+Your browser does not support the video tag.
+</video>
 
 ## News
 
@@ -32,11 +37,11 @@ Stay tuned...
 
 **October 30, 2022:**  Challenge prelaunch
 
-**January 15, 2023:**  Challenge opens
+**April 19, 2023:**  Presentation of challenge at [ISMR 2023 Workshop](https://collaborative-robotics.github.io/ismr-2023-workshop.html)
 
-**June 15, 2023:** Online challenge closes
+**TBD** Online challenge closes
 
-**Summer 2023:** Physical challenge opens
+**Winter 2023-2024:** Physical challenge opens
 
 ## Registration
 

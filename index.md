@@ -30,15 +30,23 @@ to improve robotic surgery through enhanced perception, intelligent assistance a
 
 # Events
 
+## Workshops and Tutorials
+
 * [IROS 2018 Tutorial](./iros-2018-tutorial.md)
 * [ISMR 2019 Workshop](./ismr-2019-workshop.md)
 * [ISMR 2021 Workshop](./ismr-2021-workshop.md)
+* [ISMR 2023 Workshop](./ismr-2023-workshop.md)
+
+## Research Symposia (Online)
+
 * [CRTK 2021 Research Symposium](./crtk-2021-research-symposium.md)
   * [Session 1: March 11, 2021](./symposium-session-1/crtk-2021-symposium-session-1.md)
   * [Session 2: July 19, 2021 (*Hamlyn Edition*)](./symposium-session-2/crtk-2021-symposium-session-2.md)
-  * [Session 3: TBD 2022](./symposium-session-3/crtk-symposium-session-3.md)
+
+## AccelNet Surgical Robotics Challenges
+
 * [AccelNet Surgical Robotics Challenge, 2021-2022](./surgical-robotics-challenge/challenge-2021.md)
-* [ISMR 2023 Workshop](./ismr-2023-workshop.md)
+* [AccelNet Surgical Robotics Challenge, 2023-2024](./surgical-robotics-challenge-2023/challenge-2023.md)
 
 # Support
 
