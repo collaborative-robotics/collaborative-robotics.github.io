@@ -16,11 +16,11 @@ The objective of this workshop is to advance the application of machine learning
 
 The workshop will present the challenge infrastructure, including a hands-on session for the [AMBF simulator](https://github.com/WPI-AIM/ambf), the [Medical Open Network for Artificial Intelligence (MONAI)](https://monai.io/) (including nVidia Clara Holoscan), and the [da Vinci Research Kit (dVRK)](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki).
 
-The following videos summarize the hands-on session, where partipants will learn how to capture video in the AMBF simulation environment (left), with corresponding ground truth labels, train a neural network to segment the instrument, needle and suture, and then run this network on video obtained from the simulation environment (right) as well as the physical dVRK.
+The following videos summarize the hands-on session, where partipants will learn how to capture video in the AMBF simulation environment (left), with corresponding ground truth labels, train a neural network to segment the instruments, needle and suture, and then run this network on video obtained from the simulation environment (right) as well as the physical dVRK.
 
 | Video input to Network | Video output (segmentations) from Network |
 |:----------------------:|:-----------------------------------------:|
-|<img src='./images/InputVideo.gif'  /> | <img src='./images/OutputVideo.gif' /> |
+| <img src='./images/InputVideo.gif' /> | <img src='./images/OutputVideo.gif' /> |
 
 One goal is to build a worldwide collaboration focused on collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies, including NSF in the United States, ERC in the European Union and UGC in Hong Kong.
 
@@ -46,12 +46,14 @@ One goal is to build a worldwide collaboration focused on collection and sharing
 **Coffee Break:**  10:00 - 10:30 AM (30 minutes)
 
 **Session 2:**  Hands-On Session (and Poster Session), 10:30 AM - 12:00 PM (90 minutes)
-  * Set up AMBF and MONAI segmentation network (hopefully in advance)
-  * Evaluate performance of pre-trained network with AMBF simulator output
-  * Collect training data in AMBF and re-train network (small number of epochs)
-  * Evaluate performance of re-trained network with AMBF simulator output
-  * Evaluate performance with dVRK images (sim-to-real)
-  * If labeled dVRK images available, re-train network and re-evaluate
+  * Verify installation of AMBF and Surgical Robotics Challenge
+  * Collect data in AMBF (video and ground-truth segmentations)
+  * Process data to obtain labeled images for neural network
+  * Upload data to Google drive, so that it is available in Google colab
+  * Set up MONAI in Google colab (links provided in Jupyter notebook)
+  * Train neural network in Google colab (links provided in Jupyter notebook)
+  * Run neural network (inferencing) with test data in Google colab (links provided in Jupyter notebook)
+  * Run neural network (inferencing) with dVRK images (sim-to-real)
 
 ## Community Poster Session
 
@@ -74,22 +76,25 @@ The following hardware will be available during the hands-on session:
   * AMBF server
   * dVRK system
     * PSM
-    * PSM-Si
     * Stereo Camera
     * Suturing phantom
   * nVidia Clara Holoscan AGX
 
 Interested participants should set up their laptop prior to the workshop.
+We recommend installing ROS, AMBF and the Surgical Robotics Challenge, as described below.
+In addition, participants should have a Google account so that the machine learning tasks
+can be performed on the [Google colab](https://colab.research.google.com/) cloud server.
 
-There are two different ways to install AMBF on your machine:
+Preferred installation (on Ubuntu 20.04):
 
-  1. Install Ubuntu, ROS and AMBF:
-   * a. **(Preferred)** Install Ubuntu 20.04 on your computer and install ROS [Noetic](http://wiki.ros.org/ROS/Installation). Then install AMBF based on these [instructions](https://github.com/WPI-AIM/ambf/blob/ambf-2.0/README.md).
-   * b. If you instead prefer to use MacOS or a Windows computer, and do not wish to create a bootable Ubuntu partition, you can use the AMBF [docker](https://github.com/collaborative-robotics/docker-ambf) image and install it according to these [instructions](https://github.com/collaborative-robotics/docker-ambf). The performance of AMBF would be limited in this case.
-  
-  2. Clone the [surgical_robotics_challenge](https://github.com/collaborative-robotics/surgical_robotics_challenge) repo on the Linux OS from the first step.
+  1. Install ROS [Noetic](http://wiki.ros.org/ROS/Installation), if not already installed.
+  2. Install AMBF based on these [instructions](https://github.com/WPI-AIM/ambf/blob/ambf-2.0/README.md).
+  3. Clone the [surgical_robotics_challenge](https://github.com/collaborative-robotics/surgical_robotics_challenge) repository.
 
-  3. Install MONAI (instructions TBA)
+Participants who do not have Ubuntu 20.04 can instead use the AMBF [docker](https://github.com/collaborative-robotics/docker-ambf) image and install it according to these [instructions](https://github.com/collaborative-robotics/docker-ambf). The performance of AMBF would be limited in this case.
+
+Advanced participants, with a good GPU, can skip Google colab and instead install PyTorch
+and MONAI on their laptops.
 
 ## Resources
 
