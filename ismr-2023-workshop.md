@@ -20,8 +20,7 @@ The following videos summarize the hands-on session, where partipants will learn
 
 | Video input to Network | Video output (segmentations) from Network |
 |:----------------------:|:-----------------------------------------:|
-{<video src='./images/InputVideo.gif'  width=200/> |
- <video src='./images/OutputVideo.gif' width=200/> |
+|<video src='./images/InputVideo.gif'  width=200/> | <video src='./images/OutputVideo.gif' width=200/> |
 
 One goal is to build a worldwide collaboration focused on collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies, including NSF in the United States, ERC in the European Union and UGC in Hong Kong.
 
@@ -43,18 +42,25 @@ Session 1:  Invited Talks, 8:30 - 10:00 AM (90 minutes)
 
 Coffee Break:  10:00 - 10:30 AM (30 minutes)
 
-Session 2:  Hands-On Session and Poster Session, 10:30 AM - 12:00 PM (90 minutes)
-  * Tentative outline for hands-on session (see below for preparation):
-    * Set up AMBF and MONAI segmentation network (hopefully in advance)
-    * Evaluate performance of pre-trained network with AMBF simulator output
-    * Collect training data in AMBF and re-train network (small number of epochs)
-    * Evaluate performance of re-trained network with AMBF simulator output
-    * Evaluate performance with dVRK images (sim-to-real)
-    * If labeled dVRK images available, re-train network and re-evaluate
+Session 2:  Hands-On Session (and Poster Session), 10:30 AM - 12:00 PM (90 minutes)
+  * Set up AMBF and MONAI segmentation network (hopefully in advance)
+  * Evaluate performance of pre-trained network with AMBF simulator output
+  * Collect training data in AMBF and re-train network (small number of epochs)
+  * Evaluate performance of re-trained network with AMBF simulator output
+  * Evaluate performance with dVRK images (sim-to-real)
+  * If labeled dVRK images available, re-train network and re-evaluate
 
-## Poster Session
+## Community Poster Session
 
-The workshop will also provide a poster session for researchers to present their results in data-driven methods for scene perception, intelligent assistance, semi-autonomous teleoperation and surgical autonomy.
+We will run a poster session during the coffee break and concurrently with the hands-on session.
+Interested participants are invited to bring
+their posters, as long as they are related to the workshop theme of machine learning in robotic surgery.
+Relevant poster topics include data-driven methods for scene perception, intelligent assistance, semi-autonomous
+teleoperation and surgical autonomy.
+
+There is no submission or review process for posters, although we encourage attendees to let us know if they will
+to bring a poster so that we can be sure to have enough poster stands. We currently plan to have approximately
+10 poster stands in the room.
 
 ## Preparation for Hands-On Session
 
