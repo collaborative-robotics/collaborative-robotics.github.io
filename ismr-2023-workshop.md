@@ -20,7 +20,7 @@ The following videos summarize the hands-on session, where partipants will learn
 
 | Video input to Network | Video output (segmentations) from Network |
 |:----------------------:|:-----------------------------------------:|
-|<img src='./images/InputVideo.gif'  width=200/> | <img src='./images/OutputVideo.gif' width=200/> |
+|<img src='./images/InputVideo.gif'  /> | <img src='./images/OutputVideo.gif' /> |
 
 One goal is to build a worldwide collaboration focused on collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies, including NSF in the United States, ERC in the European Union and UGC in Hong Kong.
 
@@ -32,7 +32,7 @@ One goal is to build a worldwide collaboration focused on collection and sharing
 
 ## Tentative Program
 
-Session 1:  Invited Talks, 8:30 - 10:00 AM (90 minutes)
+**Session 1:**  Invited Talks, 8:30 - 10:00 AM (90 minutes)
 
 | Time  | Topic        | Speakers |
 |:------|:-------------|:---------|
@@ -43,9 +43,9 @@ Session 1:  Invited Talks, 8:30 - 10:00 AM (90 minutes)
 | 09:50 | User studies, data collection, and learning from demonstration on the dVRK | Greg Fischer (WPI) |
 | 10:10 | Machine learning with the dVRK | Jie Ying Wu (Vanderbilt Univ.) |
 
-Coffee Break:  10:00 - 10:30 AM (30 minutes)
+**Coffee Break:**  10:00 - 10:30 AM (30 minutes)
 
-Session 2:  Hands-On Session (and Poster Session), 10:30 AM - 12:00 PM (90 minutes)
+**Session 2:**  Hands-On Session (and Poster Session), 10:30 AM - 12:00 PM (90 minutes)
   * Set up AMBF and MONAI segmentation network (hopefully in advance)
   * Evaluate performance of pre-trained network with AMBF simulator output
   * Collect training data in AMBF and re-train network (small number of epochs)
