@@ -73,7 +73,9 @@ TBD
 
 ## Challenge Tasks
 
-TBD,but probably about the same as last time.
+### Challenge 1: [Grasp needle with right instrument and move to first entry point](./challenge-1.md)
+
+### Challenge 2: [Complete four running sutures using both instruments](./challenge-2.md)
 
 ### Contact
 
