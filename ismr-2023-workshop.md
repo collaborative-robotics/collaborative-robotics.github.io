@@ -40,24 +40,24 @@ One goal is to build a worldwide collaboration focused on collection and sharing
 
 | Time | Topic        | Speakers |
 |:-----|:-------------|:---------|
-| 8:30 | The da Vinci Research Kit and AccelNet Surgical Robotics Challenge | Peter Kazanzides (JHU) |
+| 8:30 | The da Vinci Research Kit and AccelNet Surgical Robotics Challenge | Peter Kazanzides, Juan Antonio Barragan (JHU) |
 | 8:45 | AMBF and the Accelnet Surgical Robotics Challenge | Adnan Munawar (JHU) |
 | 9:00 | MONAI:  Open source AI platform for medical imaging and devices | Marc Edgar (nVidia) |
 | 9:15 | Paving the path to surgical autonomy with simulation | Animesh Garg (Georgia Tech) |
-| 9:30 | User studies, data collection, and learning from demonstration on the dVRK | Greg Fischer (WPI) |
+| 9:30 | User studies, data collection, and learning from demonstration on the dVRK | Greg Fischer, Haoying Zhou (WPI) |
 | 9:45 | Machine learning with the dVRK | Jie Ying Wu (Vanderbilt Univ.) |
 
 **Coffee Break:**  10:00 - 10:30 AM (30 minutes)
 
 **Session 2:**  Hands-On Session (and Poster Session), 10:30 AM - 12:00 PM (90 minutes)
-  * Verify installation of AMBF and Surgical Robotics Challenge (see **Preparation** below)
-  * Collect data in AMBF (video and ground-truth segmentations)
-  * Process data to obtain labeled images for neural network
-  * Upload data to Google drive, so that it is available in Google colab
-  * Set up MONAI in Google colab (links provided in Jupyter notebook)
-  * Train neural network in Google colab (links provided in Jupyter notebook)
-  * Run neural network (inferencing) with test data in Google colab (links provided in Jupyter notebook)
-  * Run neural network (inferencing) with dVRK images (sim-to-real)
+  1. Verify installation of AMBF and Surgical Robotics Challenge (see **Preparation** below)
+  2. Collect data in AMBF (video and ground-truth segmentations)
+  3. Process data to obtain labeled images for neural network
+  4. Upload data to Google drive, so that it is available in Google colab
+  5. Set up MONAI in Google colab (links provided in Jupyter notebook)
+  6. Train neural network in Google colab (links provided in Jupyter notebook)
+  7. Run neural network (inferencing) with test data in Google colab (links provided in Jupyter notebook)
+  8. Run neural network (inferencing) with dVRK images (sim-to-real)
 
 ## Community Poster Session
 
@@ -77,7 +77,6 @@ Attendees will have the opportunity to test out the [AMBF simulator](https://git
 [MONAI](https://monai.io/) and [dVRK](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki) during Session 2.
 The following hardware will be available during the hands-on session:
 
-  * AMBF server
   * dVRK system
     * PSM
     * Stereo camera

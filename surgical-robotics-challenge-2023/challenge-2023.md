@@ -39,9 +39,9 @@ Stay tuned...
 
 **April 19, 2023:**  Presentation of challenge at [ISMR 2023 Workshop](https://collaborative-robotics.github.io/ismr-2023-workshop.html)
 
-**TBD:** Online challenge closes
+**December 2023:** Online challenge closes
 
-**Winter 2023-2024:** Physical challenge opens
+**January 2024:** Physical (in-person) challenge
 
 ## Registration
 
