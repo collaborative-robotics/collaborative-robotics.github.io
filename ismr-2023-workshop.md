@@ -13,7 +13,7 @@ layout: default
 ## Objectives
 
 The objective of this workshop is to advance the application of machine learning in robotic surgery. The primary application domain is the telesurgical approach exemplified in operating rooms by the da Vinci surgical system and in research labs by the da Vinci Research Kit (dVRK) and Raven II open platforms. The AccelNet Surgical Robotics Challenge represents one step toward this objective, specifically focusing on autonomous suturing in minimally-invasive surgery.
-The [first challenge (2021-2022)(https://collaborative-robotics.github.io/surgical-robotics-challenge/challenge-2021.html)
+The [first challenge (2021-2022)](https://collaborative-robotics.github.io/surgical-robotics-challenge/challenge-2021.html)
 was implemented in the Asynchronous Multi-Body Framework (AMBF) dynamic simulation environment and the ongoing
 [second challenge (2023-2024)](https://collaborative-robotics.github.io/surgical-robotics-challenge-2023/challenge-2023.html)
 includes both simulated and real environments.
