@@ -46,7 +46,7 @@ One goal is to build a worldwide collaboration focused on collection and sharing
 **Coffee Break:**  10:00 - 10:30 AM (30 minutes)
 
 **Session 2:**  Hands-On Session (and Poster Session), 10:30 AM - 12:00 PM (90 minutes)
-  * Verify installation of AMBF and Surgical Robotics Challenge
+  * Verify installation of AMBF and Surgical Robotics Challenge (see **Preparation** below)
   * Collect data in AMBF (video and ground-truth segmentations)
   * Process data to obtain labeled images for neural network
   * Upload data to Google drive, so that it is available in Google colab
@@ -79,7 +79,8 @@ The following hardware will be available during the hands-on session:
     * Stereo camera
     * Suturing phantom
 
-In addition, we will have an nVidia Clara Holoscan and will run a demonstration application.
+In addition, we will have an [nVidia Clara Holoscan](https://www.nvidia.com/en-us/clara/medical-devices/)
+and will run a demonstration application.
 
 ## Preparation for Hands-On Session
 
