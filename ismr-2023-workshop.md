@@ -34,14 +34,14 @@ One goal is to build a worldwide collaboration focused on collection and sharing
 
 **Session 1:**  Invited Talks, 8:30 - 10:00 AM (90 minutes)
 
-| Time  | Topic        | Speakers |
-|:------|:-------------|:---------|
-| 08:30 | The da Vinci Research Kit and AccelNet Surgical Robotics Challenge | Peter Kazanzides (JHU) |
-| 08:50 | AMBF and the Accelnet Surgical Robotics Challenge | Adnan Munawar (JHU) |
-| 09:10 | MONAI:  Open source AI platform for medical imaging and devices | Marc Edgar (nVidia) |
-| 09:30 | Paving the path to surgical autonomy with simulation | Animesh Garg (Georgia Tech) |
-| 09:50 | User studies, data collection, and learning from demonstration on the dVRK | Greg Fischer (WPI) |
-| 10:10 | Machine learning with the dVRK | Jie Ying Wu (Vanderbilt Univ.) |
+| Time | Topic        | Speakers |
+|:-----|:-------------|:---------|
+| 8:30 | The da Vinci Research Kit and AccelNet Surgical Robotics Challenge | Peter Kazanzides (JHU) |
+| 8:45 | AMBF and the Accelnet Surgical Robotics Challenge | Adnan Munawar (JHU) |
+| 9:00 | MONAI:  Open source AI platform for medical imaging and devices | Marc Edgar (nVidia) |
+| 9:15 | Paving the path to surgical autonomy with simulation | Animesh Garg (Georgia Tech) |
+| 9:30 | User studies, data collection, and learning from demonstration on the dVRK | Greg Fischer (WPI) |
+| 9:45 | Machine learning with the dVRK | Jie Ying Wu (Vanderbilt Univ.) |
 
 **Coffee Break:**  10:00 - 10:30 AM (30 minutes)
 
