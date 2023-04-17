@@ -14,7 +14,7 @@ layout: default
 
 The objective of this workshop is to advance the application of machine learning in robotic surgery. The primary application domain is the telesurgical approach exemplified in operating rooms by the da Vinci surgical system and in research labs by the da Vinci Research Kit (dVRK) and Raven II open platforms. The AccelNet Surgical Robotics Challenge represents one step toward this objective, specifically focusing on autonomous suturing in minimally-invasive surgery. The first iteration of this challenge was implemented in the Asynchronous Multi-Body Framework (AMBF) dynamic simulation environment and the second challenge includes both simulated and real environments.
 
-The workshop will present the challenge infrastructure, including a hands-on session for the [AMBF simulator](https://github.com/WPI-AIM/ambf), the [Medical Open Network for Artificial Intelligence (MONAI)](https://monai.io/) (including nVidia Clara Holoscan), and the [da Vinci Research Kit (dVRK)](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki).
+The workshop will present the challenge infrastructure, including a hands-on session for the [AMBF simulator](https://github.com/WPI-AIM/ambf), the [Medical Open Network for Artificial Intelligence (MONAI)](https://monai.io/), and the [da Vinci Research Kit (dVRK)](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki).
 
 The following videos summarize the hands-on session, where partipants will learn how to capture video in the AMBF simulation environment (left), with corresponding ground truth labels, train a neural network to segment the instruments, needle and suture, and then run this network on video obtained from the simulation environment (right) as well as the physical dVRK.
 
@@ -67,7 +67,7 @@ There is no submission or review process for posters, although we encourage atte
 to bring a poster so that we can be sure to have enough poster stands. We currently plan to have approximately
 10 poster stands in the room.
 
-## Preparation for Hands-On Session
+## Hands-On Session Overview
 
 Attendees will have the opportunity to test out the [AMBF simulator](https://github.com/WPI-AIM/ambf),
 [MONAI](https://monai.io/) and [dVRK](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki) during Session 2.
@@ -76,9 +76,12 @@ The following hardware will be available during the hands-on session:
   * AMBF server
   * dVRK system
     * PSM
-    * Stereo Camera
+    * Stereo camera
     * Suturing phantom
-  * nVidia Clara Holoscan AGX
+
+In addition, we will have an nVidia Clara Holoscan and will run a demonstration application.
+
+## Preparation for Hands-On Session
 
 Interested participants should set up their laptop prior to the workshop.
 We recommend installing ROS, AMBF and the Surgical Robotics Challenge, as described below.
