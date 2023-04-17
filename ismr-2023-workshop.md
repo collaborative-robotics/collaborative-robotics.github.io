@@ -20,7 +20,7 @@ The following videos summarize the hands-on session, where partipants will learn
 
 | Video input to Network | Video output (segmentations) from Network |
 |:----------------------:|:-----------------------------------------:|
-|<video src='./images/InputVideo.gif'  width=200/> | <video src='./images/OutputVideo.gif' width=200/> |
+|<img src='./images/InputVideo.gif'  width=200/> | <img src='./images/OutputVideo.gif' width=200/> |
 
 One goal is to build a worldwide collaboration focused on collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies, including NSF in the United States, ERC in the European Union and UGC in Hong Kong.
 
@@ -33,12 +33,15 @@ One goal is to build a worldwide collaboration focused on collection and sharing
 ## Tentative Program
 
 Session 1:  Invited Talks, 8:30 - 10:00 AM (90 minutes)
-  * Peter Kazanzides:  The da Vinci Research Kit and AccelNet Surgical Robotics Challenge
-  * Adnan Munawar:  AMBF and the AccelNet Surgical Robotics Challenge
-  * TBD:  MONAI:  Open source AI platform for medical imaging and devices
-  * Animesh Garg:  Paving the path to surgical autonomy with simulation
-  * Greg Fischer:  User studies, data collection, and learning from demonstration on the dVRK
-  * Jie Ying Wu:  Machine learning with the dVRK
+
+| Time  | Topic        | Speakers |
+|:------|:-------------|:---------|
+| 08:30 | The da Vinci Research Kit and AccelNet Surgical Robotics Challenge | Peter Kazanzides (JHU) |
+| 08:50 | AMBF and the Accelnet Surgical Robotics Challenge | Adnan Munawar (JHU) |
+| 09:10 | MONAI:  Open source AI platform for medical imaging and devices | Marc Edgar (nVidia) |
+| 09:30 | Paving the path to surgical autonomy with simulation | Animesh Garg (Georgia Tech) |
+| 09:50 | User studies, data collection, and learning from demonstration on the dVRK | Greg Fischer (WPI) |
+| 10:10 | Machine learning with the dVRK | Jie Ying Wu (Vanderbilt Univ.) |
 
 Coffee Break:  10:00 - 10:30 AM (30 minutes)
 
