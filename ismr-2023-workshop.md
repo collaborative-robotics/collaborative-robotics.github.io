@@ -92,11 +92,7 @@ We recommend installing ROS, AMBF and the Surgical Robotics Challenge, as descri
 In addition, participants should have a Google account so that the machine learning tasks
 can be performed on the [Google colab](https://colab.research.google.com/) cloud server.
 
-Preferred installation (on Ubuntu 20.04):
-
-  1. Install ROS [Noetic](http://wiki.ros.org/ROS/Installation), if not already installed.
-  2. Install AMBF based on these [instructions](https://github.com/WPI-AIM/ambf/blob/ambf-2.0/README.md).
-  3. Clone the [surgical_robotics_challenge](https://github.com/collaborative-robotics/surgical_robotics_challenge) repository.
+Updated setup instructions (for Ubuntu 20.04) are provided [here](https://github.com/Accelnet-project-repositories/ISMR_workshop_2023).
 
 Participants who do not have Ubuntu 20.04 can instead use the AMBF [docker](https://github.com/collaborative-robotics/docker-ambf) image and install it according to these [instructions](https://github.com/collaborative-robotics/docker-ambf). The performance of AMBF would be limited in this case.
 
