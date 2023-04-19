@@ -42,7 +42,7 @@ One goal is to build a worldwide collaboration focused on collection and sharing
 |:-----|:-------------|:---------|
 | 8:30 | The da Vinci Research Kit and AccelNet Surgical Robotics Challenge | Peter Kazanzides, Juan Antonio Barragan (JHU) |
 | 8:45 | AMBF and the Accelnet Surgical Robotics Challenge | Adnan Munawar (JHU) |
-| 9:00 | MONAI:  Open source AI platform for medical imaging and devices | Marc Edgar (nVidia) |
+| 9:00 | MONAI and NVIDIA Holoscan + IGX for Realtime AI and Visualization in Medical Devices | Marc Edgar (nVidia) |
 | 9:15 | Paving the path to surgical autonomy with simulation | Animesh Garg (Georgia Tech) |
 | 9:30 | User studies, data collection, and learning from demonstration on the dVRK | Greg Fischer, Haoying Zhou (WPI) |
 | 9:45 | Machine learning with the dVRK | Jie Ying Wu (Vanderbilt Univ.) |
@@ -82,7 +82,7 @@ The following hardware will be available during the hands-on session:
     * Stereo camera
     * Suturing phantom
 
-In addition, we will have an [nVidia Clara Holoscan](https://www.nvidia.com/en-us/clara/medical-devices/)
+In addition, we will have an [nVidia Clara Holoscan AGX](https://www.nvidia.com/en-us/clara/medical-devices/)
 and will run a demonstration application.
 
 ## Preparation for Hands-On Session
