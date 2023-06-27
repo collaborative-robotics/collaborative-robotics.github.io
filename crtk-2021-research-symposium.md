@@ -8,7 +8,9 @@ layout: default
 
 This is an online-only series for sharing within the common platform community.
 The overall theme is experimental minimally-invasive surgical robotics research, typically, but not limited to,
-work on the Raven and dVRK platforms. The intent is for this symposium to be a recurring online event.
+work on the Raven and dVRK platforms.
+
+This series is not currently active.
 
 ## Symposium Format
 
@@ -23,15 +25,12 @@ Each session will be 1.5 hours in length, with approximately 4-6 presentations. 
 
 ## Call for Contributions
 
-Interested speakers should submit a 1/2 page abstract via this
-[google form](https://forms.gle/GZv1nKkK9A6n1Tpy5).
-New sessions will be scheduled based on the abstracts received.
+**Currently Closed**
 
 ## Scheduled Sessions
 
 * [Session 1](./symposium-session-1/crtk-2021-symposium-session-1.md): March 11, 2021
 * [Session 2](./symposium-session-2/crtk-2021-symposium-session-2.md): July 19, 2021
-* [Session 3](./symposium-session-3/crtk-symposium-session-3.md): TBD
 
 ## Organizers
 
