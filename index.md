@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The _collaborative-robotics_ organization was originally created to develop a Common API for research in
+The _collaborative-robotics_ organization was created to develop a Common API for research in
 teleoperated and collaborative robotics, with an initial focus in the domain of medical robotics.
 
 We are developing an abstract definition of this API,
@@ -16,6 +16,7 @@ and other devices commonly used by researchers. The provided implementation uses
 We also support networking events for researchers in the medical robotics domain.
 This includes _AccelNet_ events for researchers interested in the use of artificial intelligence
 to improve robotic surgery through enhanced perception, intelligent assistance and autonomy.
+See [this page](https://surgical-robotics-ai.github.io/) for more information.
 
 
 # Links
