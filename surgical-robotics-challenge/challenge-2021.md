@@ -4,6 +4,8 @@ layout: default
 
 # 2021-2022 AccelNet Surgical Robotics Challenge (online)
 
+**NOTE: This page is moving [here](https://surgical-robotics-ai.github.io/surgical-robotics-challenge-2021/challenge-2021.html).**
+
 Automating surgical subtasks is an oft-mentioned research target for robot-assisted surgery. Certain
 subtasks, such as suturing and resection, have been automated on test bench setups. Yet current
 works are often limited in scope (i.e., based on very simplistic setups) and lack a standardized

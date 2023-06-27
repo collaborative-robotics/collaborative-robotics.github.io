@@ -45,8 +45,8 @@ to improve robotic surgery through enhanced perception, intelligent assistance a
 
 ## AccelNet Surgical Robotics Challenges
 
-* [AccelNet Surgical Robotics Challenge, 2021-2022](./surgical-robotics-challenge/challenge-2021.md)
-* [AccelNet Surgical Robotics Challenge, 2023-2024](./surgical-robotics-challenge-2023/challenge-2023.md)
+* [AccelNet Surgical Robotics Challenge, 2021-2022](https://surgical-robotics-ai.github.io/surgical-robotics-challenge-2021/challenge-2021.html)
+* [AccelNet Surgical Robotics Challenge, 2023-2024](https://surgical-robotics-ai.github.io/surgical-robotics-challenge-2023/challenge-2023.html)
 
 # Support
 
