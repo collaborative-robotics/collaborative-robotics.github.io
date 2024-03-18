@@ -37,6 +37,7 @@ See [this page](https://surgical-robotics-ai.github.io/) for more information.
 * [ISMR 2019 Workshop](./ismr-2019-workshop.md)
 * [ISMR 2021 Workshop](./ismr-2021-workshop.md)
 * [ISMR 2023 Workshop](./ismr-2023-workshop.md)
+* [ISMR 2024 Workshop](https://surgical-robotics-ai.github.io/ismr-2024-workshop.html)
 
 ## Research Symposia (Online)
 
